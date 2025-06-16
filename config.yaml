@@ -1,0 +1,37 @@
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "ericma1999"
+repo_name: "machine-unlearning-arxiv-daily"
+show_authors: True
+show_links: True
+max_results: 100
+
+publish_readme: True
+publish_gitpage: True
+
+# file paths
+json_readme_path: './docs/llm-arxiv-daily.json'
+json_gitpage_path: './docs/llm-arxiv-daily-web.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+
+# keywords to search
+keywords:
+  "Machine Unlearning":
+      filters: [
+          "Machine Unlearning", "Data Forgetting", "Selective Forgetting", "Catastrophic Forgetting",
+          "Knowledge Unlearning", "Concept Erasure", "Forgetting in Neural Networks",
+          "Fact Removal", "LLM Unlearning", "Forgetting Mechanisms", "Unlearning Methods"
+      ]
+  "Machine Unlearning Benchmarks":
+      filters: [
+          "Unlearning Benchmark", "Machine Unlearning Benchmark", "Selective Forgetting Benchmark",
+          "Unlearning Evaluation", "Unlearning Metrics",
+          "Forgetting Metrics", "Catastrophic Forgetting Benchmark"
+      ]
+
+  "Machine Unlearning Datasets":
+      filters: [
+          "Unlearning Dataset", "Forget Set", "Retain Set",
+          "Redacted Dataset", "Editable Dataset", "Data Deletion Benchmark", "Unlearning Split"
+      ]
