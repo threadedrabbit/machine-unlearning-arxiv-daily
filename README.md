@@ -1,4 +1,4 @@
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -113,7 +113,7 @@
 |**2025-05-26**|**Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?**|Zexi Li et.al.|[2505.19855](http://arxiv.org/abs/2505.19855)|null|
 |**2025-05-26**|**Light distillation for Incremental Graph Convolution Collaborative Filtering**|X Fan et.al.|[2505.19810](http://arxiv.org/abs/2505.19810)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## Machine Unlearning Benchmarks
 
@@ -130,7 +130,7 @@
 |**2025-05-11**|**Efficient Machine Unlearning by Model Splitting and Core Sample Selection**|Maximilian Egger et.al.|[2505.07026](http://arxiv.org/abs/2505.07026)|null|
 |**2025-05-08**|**WaterDrum: Watermarking for Data-centric Unlearning Metric**|Xinyang Lu et.al.|[2505.05064](http://arxiv.org/abs/2505.05064)|**[link](https://github.com/lululu008/waterdrum)**|
 |**2025-05-01**|**Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation**|Vaidehi Patil et.al.|[2505.01456](http://arxiv.org/abs/2505.01456)|**[link](https://github.com/vaidehi99/unlok-vqa)**|
-|**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|**[link](https://github.com/zikuicai/aegisllm)**|
+|**2025-06-13**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|**[link](https://github.com/zikuicai/aegisllm)**|
 |**2025-04-17**|**GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs**|Kun-Woo Kim et.al.|[2504.12681](http://arxiv.org/abs/2504.12681)|null|
 |**2025-04-16**|**LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks**|Soumyadeep Pal et.al.|[2504.10185](http://arxiv.org/abs/2504.10185)|**[link](https://github.com/optml-group/mu-coreset)**|
 |**2025-03-24**|**Human Motion Unlearning**|Edoardo De Matteis et.al.|[2503.18674](http://arxiv.org/abs/2503.18674)|null|
@@ -177,7 +177,7 @@
 |**2020-09-14**|**CVPR 2020 Continual Learning in Computer Vision Competition: Approaches, Results, Current Challenges and Future Directions**|Vincenzo Lomonaco et.al.|[2009.09929](http://arxiv.org/abs/2009.09929)|null|
 |**2021-03-02**|**Using Hindsight to Anchor Past Knowledge in Continual Learning**|Arslan Chaudhry et.al.|[2002.08165](http://arxiv.org/abs/2002.08165)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## Machine Unlearning Datasets
 
@@ -284,5 +284,5 @@
 |**2023-11-21**|**CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation**|Ali Abbasi et.al.|[2311.12999](http://arxiv.org/abs/2311.12999)|null|
 |**2023-10-16**|**Enhancing Interpretability using Human Similarity Judgements to Prune Word Embeddings**|Natalia Flechas Manrique et.al.|[2310.10262](http://arxiv.org/abs/2310.10262)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
