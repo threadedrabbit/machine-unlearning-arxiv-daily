@@ -7,6 +7,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Sharpness-Aware Machine Unlearning**|Haoran Tang et.al.|[2506.13715](http://arxiv.org/abs/2506.13715)|null|
+|**2025-06-16**|**Unlearning-Enhanced Website Fingerprinting Attack: Against Backdoor Poisoning in Anonymous Networks**|Yali Yuan et.al.|[2506.13563](http://arxiv.org/abs/2506.13563)|null|
+|**2025-06-16**|**On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains**|Craig Steven Wright et.al.|[2506.13246](http://arxiv.org/abs/2506.13246)|null|
+|**2025-06-16**|**Align-then-Unlearn: Embedding Alignment for LLM Unlearning**|Philipp Spohn et.al.|[2506.13181](http://arxiv.org/abs/2506.13181)|null|
+|**2025-06-16**|**The Space Complexity of Learning-Unlearning Algorithms**|Yeshwanth Cherapanamjeri et.al.|[2506.13048](http://arxiv.org/abs/2506.13048)|null|
+|**2025-06-16**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|null|
+|**2025-06-16**|**Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective**|Nima Naderloui et.al.|[2506.13009](http://arxiv.org/abs/2506.13009)|null|
+|**2025-06-15**|**Reasoning Model Unlearning: Forgetting Traces, Not Just Answers, While Preserving Reasoning Skills**|Changsheng Wang et.al.|[2506.12963](http://arxiv.org/abs/2506.12963)|null|
+|**2025-06-14**|**OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics**|Vineeth Dorna et.al.|[2506.12618](http://arxiv.org/abs/2506.12618)|null|
+|**2025-06-14**|**When Forgetting Triggers Backdoors: A Clean Unlearning Attack**|Marco Arazzi et.al.|[2506.12522](http://arxiv.org/abs/2506.12522)|null|
+|**2025-06-14**|**Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization**|Filip Sondej et.al.|[2506.12484](http://arxiv.org/abs/2506.12484)|null|
+|**2025-06-14**|**SPIRE: Conditional Personalization for Federated Diffusion Generative Models**|Kaan Ozkara et.al.|[2506.12303](http://arxiv.org/abs/2506.12303)|null|
+|**2025-06-12**|**UCD: Unlearning in LLMs via Contrastive Decoding**|Vinith M. Suriyakumar et.al.|[2506.12097](http://arxiv.org/abs/2506.12097)|null|
 |**2025-06-13**|**Machine Unlearning for Robust DNNs: Attribution-Guided Partitioning and Neuron Pruning in Noisy Environments**|Deliang Jin et.al.|[2506.11615](http://arxiv.org/abs/2506.11615)|null|
 |**2025-06-12**|**Lifting Data-Tracing Machine Unlearning to Knowledge-Tracing for Foundation Models**|Yuwen Tan et.al.|[2506.11253](http://arxiv.org/abs/2506.11253)|null|
 |**2025-06-06**|**You Only Fine-tune Once: Many-Shot In-Context Fine-Tuning for Large Language Model**|Wenchong He et.al.|[2506.11103](http://arxiv.org/abs/2506.11103)|null|
@@ -90,7 +103,7 @@ layout: default
 |**2025-05-28**|**Precise In-Parameter Concept Erasure in Large Language Models**|Yoav Gur-Arieh et.al.|[2505.22586](http://arxiv.org/abs/2505.22586)|null|
 |**2025-05-28**|**Less, but Better: Efficient Multilingual Expansion for LLMs via Layer-wise Mixture-of-Experts**|Xue Zhang et.al.|[2505.22582](http://arxiv.org/abs/2505.22582)|null|
 |**2025-05-28**|**Frugal Incremental Generative Modeling using Variational Autoencoders**|Victor Enescu et.al.|[2505.22408](http://arxiv.org/abs/2505.22408)|null|
-|**2025-05-29**|**Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning**|Haomiao Qiu et.al.|[2505.22389](http://arxiv.org/abs/2505.22389)|null|
+|**2025-06-16**|**Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning**|Haomiao Qiu et.al.|[2505.22389](http://arxiv.org/abs/2505.22389)|null|
 |**2025-05-28**|**Budget-Adaptive Adapter Tuning in Orthogonal Subspaces for Continual Learning in LLMs**|Zhiyi Wan et.al.|[2505.22358](http://arxiv.org/abs/2505.22358)|null|
 |**2025-05-28**|**From Dormant to Deleted: Tamper-Resistant Unlearning Through Weight-Space Regularization**|Shoaib Ahmed Siddiqui et.al.|[2505.22310](http://arxiv.org/abs/2505.22310)|null|
 |**2025-05-28**|**LoKI: Low-damage Knowledge Implanting of Large Language Models**|Runyu Wang et.al.|[2505.22120](http://arxiv.org/abs/2505.22120)|**[link](https://github.com/Nexround/LoKI)**|
@@ -112,6 +125,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective**|Nima Naderloui et.al.|[2506.13009](http://arxiv.org/abs/2506.13009)|null|
+|**2025-06-12**|**UCD: Unlearning in LLMs via Contrastive Decoding**|Vinith M. Suriyakumar et.al.|[2506.12097](http://arxiv.org/abs/2506.12097)|null|
 |**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/abs/2506.10946)|null|
 |**2025-06-06**|**Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness**|Rongzhe Wei et.al.|[2506.05735](http://arxiv.org/abs/2506.05735)|null|
 |**2025-06-03**|**Unlearning's Blind Spots: Over-Unlearning and Prototypical Relearning Attack**|SeungBum Ha et.al.|[2506.01318](http://arxiv.org/abs/2506.01318)|null|
@@ -174,6 +189,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Sharpness-Aware Machine Unlearning**|Haoran Tang et.al.|[2506.13715](http://arxiv.org/abs/2506.13715)|null|
+|**2025-06-14**|**When Forgetting Triggers Backdoors: A Clean Unlearning Attack**|Marco Arazzi et.al.|[2506.12522](http://arxiv.org/abs/2506.12522)|null|
+|**2025-06-12**|**UCD: Unlearning in LLMs via Contrastive Decoding**|Vinith M. Suriyakumar et.al.|[2506.12097](http://arxiv.org/abs/2506.12097)|null|
 |**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/abs/2506.10946)|null|
 |**2025-06-08**|**Hallucination at a Glance: Controlled Visual Edits and Fine-Grained Multimodal Learning**|Tianyi Bai et.al.|[2506.07227](http://arxiv.org/abs/2506.07227)|null|
 |**2025-06-08**|**RULE: Reinforcement UnLEarning Achieves Forget-Retain Pareto Optimality**|Chenlong Zhang et.al.|[2506.07171](http://arxiv.org/abs/2506.07171)|null|
