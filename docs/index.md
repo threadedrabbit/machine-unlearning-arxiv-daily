@@ -2,21 +2,26 @@
 layout: default
 ---
 
-## Updated on 2025.06.18
+## Updated on 2025.06.20
 ## Machine Unlearning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**DAILOC: Domain-Incremental Learning for Indoor Localization using Smartphones**|Akhil Singampalli et.al.|[2506.15554](http://arxiv.org/abs/2506.15554)|null|
+|**2025-06-18**|**An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials**|Jisu Kim et.al.|[2506.15223](http://arxiv.org/abs/2506.15223)|null|
+|**2025-06-18**|**Towards Reliable Forgetting: A Survey on Machine Unlearning Verification, Challenges, and Future Directions**|Lulu Xue et.al.|[2506.15115](http://arxiv.org/abs/2506.15115)|null|
+|**2025-06-18**|**PDLRecover: Privacy-preserving Decentralized Model Recovery with Machine Unlearning**|Xiangman Li et.al.|[2506.15112](http://arxiv.org/abs/2506.15112)|null|
+|**2025-06-04**|**Self-Composing Policies for Scalable Continual Reinforcement Learning**|Mikel Malagón et.al.|[2506.14811](http://arxiv.org/abs/2506.14811)|null|
 |**2025-06-17**|**Don't Make It Up: Preserving Ignorance Awareness in LLM Fine-Tuning**|William F. Shen et.al.|[2506.14387](http://arxiv.org/abs/2506.14387)|null|
-|**2025-06-16**|**Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs**|Yiwei Chen et.al.|[2506.14003](http://arxiv.org/abs/2506.14003)|null|
+|**2025-06-16**|**Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs**|Yiwei Chen et.al.|[2506.14003](http://arxiv.org/abs/2506.14003)|**[link](https://github.com/optml-group/unlearn-trace)**|
 |**2025-06-16**|**Membership Inference Attacks as Privacy Tools: Reliability, Disparity and Ensemble**|Zhiqi Wang et.al.|[2506.13972](http://arxiv.org/abs/2506.13972)|**[link](https://github.com/RPI-DSPlab/mia-disparity)**|
 |**2025-06-16**|**Sharpness-Aware Machine Unlearning**|Haoran Tang et.al.|[2506.13715](http://arxiv.org/abs/2506.13715)|null|
 |**2025-06-16**|**Unlearning-Enhanced Website Fingerprinting Attack: Against Backdoor Poisoning in Anonymous Networks**|Yali Yuan et.al.|[2506.13563](http://arxiv.org/abs/2506.13563)|null|
 |**2025-06-16**|**On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains**|Craig Steven Wright et.al.|[2506.13246](http://arxiv.org/abs/2506.13246)|null|
 |**2025-06-16**|**Align-then-Unlearn: Embedding Alignment for LLM Unlearning**|Philipp Spohn et.al.|[2506.13181](http://arxiv.org/abs/2506.13181)|null|
 |**2025-06-16**|**The Space Complexity of Learning-Unlearning Algorithms**|Yeshwanth Cherapanamjeri et.al.|[2506.13048](http://arxiv.org/abs/2506.13048)|null|
-|**2025-06-16**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|null|
-|**2025-06-16**|**Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective**|Nima Naderloui et.al.|[2506.13009](http://arxiv.org/abs/2506.13009)|null|
+|**2025-06-18**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|null|
+|**2025-06-16**|**Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective**|Nima Naderloui et.al.|[2506.13009](http://arxiv.org/abs/2506.13009)|**[link](https://github.com/datasec-lab/ruli)**|
 |**2025-06-15**|**Reasoning Model Unlearning: Forgetting Traces, Not Just Answers, While Preserving Reasoning Skills**|Changsheng Wang et.al.|[2506.12963](http://arxiv.org/abs/2506.12963)|null|
 |**2025-06-14**|**OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics**|Vineeth Dorna et.al.|[2506.12618](http://arxiv.org/abs/2506.12618)|null|
 |**2025-06-14**|**When Forgetting Triggers Backdoors: A Clean Unlearning Attack**|Marco Arazzi et.al.|[2506.12522](http://arxiv.org/abs/2506.12522)|null|
@@ -55,7 +60,7 @@ layout: default
 |**2025-06-06**|**Towards Lifecycle Unlearning Commitment Management: Measuring Sample-level Unlearning Completeness**|Cheng-Long Wang et.al.|[2506.06112](http://arxiv.org/abs/2506.06112)|**[link](https://github.com/happy2git/unlearning_inference_iam)**|
 |**2025-06-06**|**System-Aware Unlearning Algorithms: Use Lesser, Forget Faster**|Linda Lu et.al.|[2506.06073](http://arxiv.org/abs/2506.06073)|null|
 |**2025-06-06**|**Hey, That's My Data! Label-Only Dataset Inference in Large Language Models**|Chen Xiong et.al.|[2506.06057](http://arxiv.org/abs/2506.06057)|null|
-|**2025-06-06**|**Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning**|Yuheng Lei et.al.|[2506.05985](http://arxiv.org/abs/2506.05985)|null|
+|**2025-06-06**|**Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning**|Yuheng Lei et.al.|[2506.05985](http://arxiv.org/abs/2506.05985)|**[link](https://github.com/HarryLui98/DMPEL)**|
 |**2025-06-06**|**Mitigating Catastrophic Forgetting with Adaptive Transformer Block Expansion in Federated Fine-Tuning**|Yujia Huo et.al.|[2506.05977](http://arxiv.org/abs/2506.05977)|null|
 |**2025-06-06**|**Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness**|Rongzhe Wei et.al.|[2506.05735](http://arxiv.org/abs/2506.05735)|null|
 |**2025-06-06**|**Being Strong Progressively! Enhancing Knowledge Distillation of Large Language Models through a Curriculum Learning Framework**|Lingyuan Liu et.al.|[2506.05695](http://arxiv.org/abs/2506.05695)|**[link](https://github.com/liuliuyuan6/POCL)**|
@@ -128,7 +133,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-16**|**Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective**|Nima Naderloui et.al.|[2506.13009](http://arxiv.org/abs/2506.13009)|null|
+|**2025-06-18**|**Learning-Time Encoding Shapes Unlearning in LLMs**|Ruihan Wu et.al.|[2506.15076](http://arxiv.org/abs/2506.15076)|null|
+|**2025-06-16**|**Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective**|Nima Naderloui et.al.|[2506.13009](http://arxiv.org/abs/2506.13009)|**[link](https://github.com/datasec-lab/ruli)**|
 |**2025-06-12**|**UCD: Unlearning in LLMs via Contrastive Decoding**|Vinith M. Suriyakumar et.al.|[2506.12097](http://arxiv.org/abs/2506.12097)|null|
 |**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/abs/2506.10946)|null|
 |**2025-06-06**|**Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness**|Rongzhe Wei et.al.|[2506.05735](http://arxiv.org/abs/2506.05735)|null|
