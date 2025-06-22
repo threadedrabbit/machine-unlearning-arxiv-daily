@@ -18,9 +18,9 @@ layout: default
 |**2025-06-16**|**Sharpness-Aware Machine Unlearning**|Haoran Tang et.al.|[2506.13715](http://arxiv.org/abs/2506.13715)|null|
 |**2025-06-16**|**Unlearning-Enhanced Website Fingerprinting Attack: Against Backdoor Poisoning in Anonymous Networks**|Yali Yuan et.al.|[2506.13563](http://arxiv.org/abs/2506.13563)|null|
 |**2025-06-16**|**On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains**|Craig Steven Wright et.al.|[2506.13246](http://arxiv.org/abs/2506.13246)|null|
-|**2025-06-16**|**Align-then-Unlearn: Embedding Alignment for LLM Unlearning**|Philipp Spohn et.al.|[2506.13181](http://arxiv.org/abs/2506.13181)|null|
+|**2025-06-16**|**Align-then-Unlearn: Embedding Alignment for LLM Unlearning**|Philipp Spohn et.al.|[2506.13181](http://arxiv.org/abs/2506.13181)|**[link](https://github.com/explainableml/align-then-unlearn)**|
 |**2025-06-16**|**The Space Complexity of Learning-Unlearning Algorithms**|Yeshwanth Cherapanamjeri et.al.|[2506.13048](http://arxiv.org/abs/2506.13048)|null|
-|**2025-06-18**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|null|
+|**2025-06-18**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|**[link](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)**|
 |**2025-06-16**|**Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective**|Nima Naderloui et.al.|[2506.13009](http://arxiv.org/abs/2506.13009)|**[link](https://github.com/datasec-lab/ruli)**|
 |**2025-06-15**|**Reasoning Model Unlearning: Forgetting Traces, Not Just Answers, While Preserving Reasoning Skills**|Changsheng Wang et.al.|[2506.12963](http://arxiv.org/abs/2506.12963)|null|
 |**2025-06-14**|**OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics**|Vineeth Dorna et.al.|[2506.12618](http://arxiv.org/abs/2506.12618)|null|
@@ -269,7 +269,7 @@ layout: default
 |**2024-12-19**|**UltraEdit: Instruction-based Fine-Grained Image Editing at Scale**|Haozhe Zhao et.al.|[2407.05282](http://arxiv.org/abs/2407.05282)|**[link](https://github.com/pkunlp-icler/ultraedit)**|
 |**2024-08-27**|**BayTTA: Uncertainty-aware medical image classification with optimized test-time augmentation using Bayesian model averaging**|Zeinab Sherkatghanad et.al.|[2406.17640](http://arxiv.org/abs/2406.17640)|**[link](https://github.com/z-sherkat/baytta)**|
 |**2025-05-19**|**Unveiling Entity-Level Unlearning for Large Language Models: A Comprehensive Analysis**|Weitao Ma et.al.|[2406.15796](http://arxiv.org/abs/2406.15796)|null|
-|**2025-06-06**|**Opt-Out: Investigating Entity-Level Unlearning for Large Language Models via Optimal Transport**|Minseok Choi et.al.|[2406.12329](http://arxiv.org/abs/2406.12329)|null|
+|**2025-06-06**|**Opt-Out: Investigating Entity-Level Unlearning for Large Language Models via Optimal Transport**|Minseok Choi et.al.|[2406.12329](http://arxiv.org/abs/2406.12329)|**[link](https://github.com/brightjade/Opt-Out)**|
 |**2024-06-16**|**RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models**|Zhuoran Jin et.al.|[2406.10890](http://arxiv.org/abs/2406.10890)|**[link](https://github.com/jinzhuoran/rwku)**|
 |**2024-09-11**|**Potion: Towards Poison Unlearning**|Stefan Schoepf et.al.|[2406.09173](http://arxiv.org/abs/2406.09173)|**[link](https://github.com/if-loops/towards_poison_unlearning)**|
 |**2024-06-05**|**Nonlinear Transformations Against Unlearnable Datasets**|Thushari Hapuarachchi et.al.|[2406.02883](http://arxiv.org/abs/2406.02883)|null|
