@@ -12,6 +12,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Continual Learning with Columnar Spiking Neural Networks**|Denis Larionov et.al.|[2506.17169](http://arxiv.org/abs/2506.17169)|null|
+|**2025-06-20**|**Large Language Model Unlearning for Source Code**|Xue Jiang et.al.|[2506.17125](http://arxiv.org/abs/2506.17125)|null|
+|**2025-06-20**|**The Importance of Being Lazy: Scaling Limits of Continual Learning**|Jacopo Graldi et.al.|[2506.16884](http://arxiv.org/abs/2506.16884)|null|
+|**2025-06-19**|**Weight Factorization and Centralization for Continual Learning in Speech Recognition**|Enes Yavuz Ugan et.al.|[2506.16574](http://arxiv.org/abs/2506.16574)|null|
+|**2025-06-19**|**Mr. Snuffleupagus at SemEval-2025 Task 4: Unlearning Factual Knowledge from LLMs Using Adaptive RMU**|Arjun Dosajh et.al.|[2506.16548](http://arxiv.org/abs/2506.16548)|null|
+|**2025-06-19**|**The Condition Number as a Scale-Invariant Proxy for Information Encoding in Neural Units**|Oswaldo Ludwig et.al.|[2506.16289](http://arxiv.org/abs/2506.16289)|null|
+|**2025-06-04**|**Tripartite Weight-Space Ensemble for Few-Shot Class-Incremental Learning**|Juntae Lee et.al.|[2506.15720](http://arxiv.org/abs/2506.15720)|null|
 |**2025-06-18**|**DAILOC: Domain-Incremental Learning for Indoor Localization using Smartphones**|Akhil Singampalli et.al.|[2506.15554](http://arxiv.org/abs/2506.15554)|null|
 |**2025-06-18**|**An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials**|Jisu Kim et.al.|[2506.15223](http://arxiv.org/abs/2506.15223)|null|
 |**2025-06-18**|**Towards Reliable Forgetting: A Survey on Machine Unlearning Verification, Challenges, and Future Directions**|Lulu Xue et.al.|[2506.15115](http://arxiv.org/abs/2506.15115)|null|
@@ -140,6 +147,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Large Language Model Unlearning for Source Code**|Xue Jiang et.al.|[2506.17125](http://arxiv.org/abs/2506.17125)|null|
+|**2025-05-28**|**BLUR: A Benchmark for LLM Unlearning Robust to Forget-Retain Overlap**|Shengyuan Hu et.al.|[2506.15699](http://arxiv.org/abs/2506.15699)|null|
 |**2025-06-18**|**Learning-Time Encoding Shapes Unlearning in LLMs**|Ruihan Wu et.al.|[2506.15076](http://arxiv.org/abs/2506.15076)|null|
 |**2025-06-16**|**Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective**|Nima Naderloui et.al.|[2506.13009](http://arxiv.org/abs/2506.13009)|**[link](https://github.com/datasec-lab/ruli)**|
 |**2025-06-12**|**UCD: Unlearning in LLMs via Contrastive Decoding**|Vinith M. Suriyakumar et.al.|[2506.12097](http://arxiv.org/abs/2506.12097)|null|
@@ -207,6 +216,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**BLUR: A Benchmark for LLM Unlearning Robust to Forget-Retain Overlap**|Shengyuan Hu et.al.|[2506.15699](http://arxiv.org/abs/2506.15699)|null|
 |**2025-06-17**|**Train Once, Forget Precisely: Anchored Optimization for Efficient Post-Hoc Unlearning**|Prabhav Sanga et.al.|[2506.14515](http://arxiv.org/abs/2506.14515)|null|
 |**2025-06-16**|**Sharpness-Aware Machine Unlearning**|Haoran Tang et.al.|[2506.13715](http://arxiv.org/abs/2506.13715)|null|
 |**2025-06-14**|**When Forgetting Triggers Backdoors: A Clean Unlearning Attack**|Marco Arazzi et.al.|[2506.12522](http://arxiv.org/abs/2506.12522)|null|
