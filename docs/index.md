@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 ## Machine Unlearning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -20,7 +20,7 @@ layout: default
 |**2025-06-16**|**On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains**|Craig Steven Wright et.al.|[2506.13246](http://arxiv.org/abs/2506.13246)|null|
 |**2025-06-16**|**Align-then-Unlearn: Embedding Alignment for LLM Unlearning**|Philipp Spohn et.al.|[2506.13181](http://arxiv.org/abs/2506.13181)|**[link](https://github.com/explainableml/align-then-unlearn)**|
 |**2025-06-16**|**The Space Complexity of Learning-Unlearning Algorithms**|Yeshwanth Cherapanamjeri et.al.|[2506.13048](http://arxiv.org/abs/2506.13048)|null|
-|**2025-06-18**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|**[link](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)**|
+|**2025-06-19**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|**[link](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)**|
 |**2025-06-16**|**Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective**|Nima Naderloui et.al.|[2506.13009](http://arxiv.org/abs/2506.13009)|**[link](https://github.com/datasec-lab/ruli)**|
 |**2025-06-15**|**Reasoning Model Unlearning: Forgetting Traces, Not Just Answers, While Preserving Reasoning Skills**|Changsheng Wang et.al.|[2506.12963](http://arxiv.org/abs/2506.12963)|null|
 |**2025-06-14**|**OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics**|Vineeth Dorna et.al.|[2506.12618](http://arxiv.org/abs/2506.12618)|null|
