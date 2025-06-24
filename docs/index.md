@@ -7,6 +7,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**ContinualFlow: Learning and Unlearning with Neural Flow Matching**|Lorenzo Simone et.al.|[2506.18747](http://arxiv.org/abs/2506.18747)|null|
+|**2025-06-23**|**Large-Scale Training Data Attribution for Music Generative Models via Unlearning**|Woosung Choi et.al.|[2506.18312](http://arxiv.org/abs/2506.18312)|null|
+|**2025-06-21**|**Pathway-based Progressive Inference (PaPI) for Energy-Efficient Continual Learning**|Suyash Gaurav et.al.|[2506.17848](http://arxiv.org/abs/2506.17848)|null|
+|**2025-06-21**|**Scalable Machine Learning Algorithms using Path Signatures**|Csaba Tóth et.al.|[2506.17634](http://arxiv.org/abs/2506.17634)|null|
+|**2025-06-14**|**Step-by-Step Reasoning Attack: Revealing 'Erased' Knowledge in Large Language Models**|Yash Sinha et.al.|[2506.17279](http://arxiv.org/abs/2506.17279)|null|
+|**2025-06-10**|**Does Multimodal Large Language Model Truly Unlearn? Stealthy MLLM Unlearning Attack**|Xianren Zhang et.al.|[2506.17265](http://arxiv.org/abs/2506.17265)|null|
 |**2025-06-20**|**Continual Learning with Columnar Spiking Neural Networks**|Denis Larionov et.al.|[2506.17169](http://arxiv.org/abs/2506.17169)|null|
 |**2025-06-20**|**Large Language Model Unlearning for Source Code**|Xue Jiang et.al.|[2506.17125](http://arxiv.org/abs/2506.17125)|null|
 |**2025-06-20**|**The Importance of Being Lazy: Scaling Limits of Continual Learning**|Jacopo Graldi et.al.|[2506.16884](http://arxiv.org/abs/2506.16884)|null|
