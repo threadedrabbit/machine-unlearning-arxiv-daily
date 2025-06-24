@@ -1,4 +1,4 @@
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -25,7 +25,7 @@
 |**2025-06-18**|**PDLRecover: Privacy-preserving Decentralized Model Recovery with Machine Unlearning**|Xiangman Li et.al.|[2506.15112](http://arxiv.org/abs/2506.15112)|null|
 |**2025-06-04**|**Self-Composing Policies for Scalable Continual Reinforcement Learning**|Mikel Malagón et.al.|[2506.14811](http://arxiv.org/abs/2506.14811)|null|
 |**2025-06-17**|**Don't Make It Up: Preserving Ignorance Awareness in LLM Fine-Tuning**|William F. Shen et.al.|[2506.14387](http://arxiv.org/abs/2506.14387)|null|
-|**2025-06-16**|**Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs**|Yiwei Chen et.al.|[2506.14003](http://arxiv.org/abs/2506.14003)|**[link](https://github.com/optml-group/unlearn-trace)**|
+|**2025-06-21**|**Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs**|Yiwei Chen et.al.|[2506.14003](http://arxiv.org/abs/2506.14003)|**[link](https://github.com/optml-group/unlearn-trace)**|
 |**2025-06-16**|**Membership Inference Attacks as Privacy Tools: Reliability, Disparity and Ensemble**|Zhiqi Wang et.al.|[2506.13972](http://arxiv.org/abs/2506.13972)|**[link](https://github.com/RPI-DSPlab/mia-disparity)**|
 |**2025-06-16**|**Sharpness-Aware Machine Unlearning**|Haoran Tang et.al.|[2506.13715](http://arxiv.org/abs/2506.13715)|null|
 |**2025-06-16**|**Unlearning-Enhanced Website Fingerprinting Attack: Against Backdoor Poisoning in Anonymous Networks**|Yali Yuan et.al.|[2506.13563](http://arxiv.org/abs/2506.13563)|null|
@@ -37,7 +37,7 @@
 |**2025-06-15**|**Reasoning Model Unlearning: Forgetting Traces, Not Just Answers, While Preserving Reasoning Skills**|Changsheng Wang et.al.|[2506.12963](http://arxiv.org/abs/2506.12963)|null|
 |**2025-06-14**|**OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics**|Vineeth Dorna et.al.|[2506.12618](http://arxiv.org/abs/2506.12618)|null|
 |**2025-06-14**|**When Forgetting Triggers Backdoors: A Clean Unlearning Attack**|Marco Arazzi et.al.|[2506.12522](http://arxiv.org/abs/2506.12522)|null|
-|**2025-06-14**|**Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization**|Filip Sondej et.al.|[2506.12484](http://arxiv.org/abs/2506.12484)|null|
+|**2025-06-21**|**Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization**|Filip Sondej et.al.|[2506.12484](http://arxiv.org/abs/2506.12484)|null|
 |**2025-06-14**|**SPIRE: Conditional Personalization for Federated Diffusion Generative Models**|Kaan Ozkara et.al.|[2506.12303](http://arxiv.org/abs/2506.12303)|null|
 |**2025-06-12**|**UCD: Unlearning in LLMs via Contrastive Decoding**|Vinith M. Suriyakumar et.al.|[2506.12097](http://arxiv.org/abs/2506.12097)|null|
 |**2025-06-13**|**Machine Unlearning for Robust DNNs: Attribution-Guided Partitioning and Neuron Pruning in Noisy Environments**|Deliang Jin et.al.|[2506.11615](http://arxiv.org/abs/2506.11615)|null|
@@ -141,7 +141,7 @@
 |**2025-05-26**|**Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?**|Zexi Li et.al.|[2505.19855](http://arxiv.org/abs/2505.19855)|null|
 |**2025-05-26**|**Light distillation for Incremental Graph Convolution Collaborative Filtering**|X Fan et.al.|[2505.19810](http://arxiv.org/abs/2505.19810)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Machine Unlearning Benchmarks
 
@@ -210,7 +210,7 @@
 |**2020-09-14**|**CVPR 2020 Continual Learning in Computer Vision Competition: Approaches, Results, Current Challenges and Future Directions**|Vincenzo Lomonaco et.al.|[2009.09929](http://arxiv.org/abs/2009.09929)|null|
 |**2021-03-02**|**Using Hindsight to Anchor Past Knowledge in Continual Learning**|Arslan Chaudhry et.al.|[2002.08165](http://arxiv.org/abs/2002.08165)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
 ## Machine Unlearning Datasets
 
@@ -322,5 +322,5 @@
 |**2023-11-21**|**CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation**|Ali Abbasi et.al.|[2311.12999](http://arxiv.org/abs/2311.12999)|null|
 |**2023-10-16**|**Enhancing Interpretability using Human Similarity Judgements to Prune Word Embeddings**|Natalia Flechas Manrique et.al.|[2310.10262](http://arxiv.org/abs/2310.10262)|null|
 
-<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
 
