@@ -21,7 +21,7 @@ layout: default
 |**2025-06-19**|**The Condition Number as a Scale-Invariant Proxy for Information Encoding in Neural Units**|Oswaldo Ludwig et.al.|[2506.16289](http://arxiv.org/abs/2506.16289)|null|
 |**2025-06-04**|**Tripartite Weight-Space Ensemble for Few-Shot Class-Incremental Learning**|Juntae Lee et.al.|[2506.15720](http://arxiv.org/abs/2506.15720)|null|
 |**2025-06-18**|**DAILOC: Domain-Incremental Learning for Indoor Localization using Smartphones**|Akhil Singampalli et.al.|[2506.15554](http://arxiv.org/abs/2506.15554)|null|
-|**2025-06-18**|**An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials**|Jisu Kim et.al.|[2506.15223](http://arxiv.org/abs/2506.15223)|null|
+|**2025-06-18**|**An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials**|Jisu Kim et.al.|[2506.15223](http://arxiv.org/abs/2506.15223)|**[link](https://github.com/kskjs1203/sevennet-reewc)**|
 |**2025-06-18**|**Towards Reliable Forgetting: A Survey on Machine Unlearning Verification, Challenges, and Future Directions**|Lulu Xue et.al.|[2506.15115](http://arxiv.org/abs/2506.15115)|null|
 |**2025-06-18**|**PDLRecover: Privacy-preserving Decentralized Model Recovery with Machine Unlearning**|Xiangman Li et.al.|[2506.15112](http://arxiv.org/abs/2506.15112)|null|
 |**2025-06-04**|**Self-Composing Policies for Scalable Continual Reinforcement Learning**|Mikel Malagón et.al.|[2506.14811](http://arxiv.org/abs/2506.14811)|null|
@@ -36,7 +36,7 @@ layout: default
 |**2025-06-19**|**A Comprehensive Survey on Continual Learning in Generative Models**|Haiyang Guo et.al.|[2506.13045](http://arxiv.org/abs/2506.13045)|**[link](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)**|
 |**2025-06-16**|**Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective**|Nima Naderloui et.al.|[2506.13009](http://arxiv.org/abs/2506.13009)|**[link](https://github.com/datasec-lab/ruli)**|
 |**2025-06-15**|**Reasoning Model Unlearning: Forgetting Traces, Not Just Answers, While Preserving Reasoning Skills**|Changsheng Wang et.al.|[2506.12963](http://arxiv.org/abs/2506.12963)|null|
-|**2025-06-14**|**OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics**|Vineeth Dorna et.al.|[2506.12618](http://arxiv.org/abs/2506.12618)|null|
+|**2025-06-14**|**OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics**|Vineeth Dorna et.al.|[2506.12618](http://arxiv.org/abs/2506.12618)|**[link](https://github.com/locuslab/open-unlearning)**|
 |**2025-06-14**|**When Forgetting Triggers Backdoors: A Clean Unlearning Attack**|Marco Arazzi et.al.|[2506.12522](http://arxiv.org/abs/2506.12522)|null|
 |**2025-06-21**|**Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization**|Filip Sondej et.al.|[2506.12484](http://arxiv.org/abs/2506.12484)|null|
 |**2025-06-14**|**SPIRE: Conditional Personalization for Federated Diffusion Generative Models**|Kaan Ozkara et.al.|[2506.12303](http://arxiv.org/abs/2506.12303)|null|
@@ -148,7 +148,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-20**|**Large Language Model Unlearning for Source Code**|Xue Jiang et.al.|[2506.17125](http://arxiv.org/abs/2506.17125)|null|
 |**2025-05-28**|**BLUR: A Benchmark for LLM Unlearning Robust to Forget-Retain Overlap**|Shengyuan Hu et.al.|[2506.15699](http://arxiv.org/abs/2506.15699)|null|
-|**2025-06-18**|**Learning-Time Encoding Shapes Unlearning in LLMs**|Ruihan Wu et.al.|[2506.15076](http://arxiv.org/abs/2506.15076)|null|
+|**2025-06-18**|**Learning-Time Encoding Shapes Unlearning in LLMs**|Ruihan Wu et.al.|[2506.15076](http://arxiv.org/abs/2506.15076)|**[link](https://github.com/wrh14/learning_time_shapes_unlearning)**|
 |**2025-06-16**|**Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective**|Nima Naderloui et.al.|[2506.13009](http://arxiv.org/abs/2506.13009)|**[link](https://github.com/datasec-lab/ruli)**|
 |**2025-06-12**|**UCD: Unlearning in LLMs via Contrastive Decoding**|Vinith M. Suriyakumar et.al.|[2506.12097](http://arxiv.org/abs/2506.12097)|null|
 |**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/abs/2506.10946)|null|
