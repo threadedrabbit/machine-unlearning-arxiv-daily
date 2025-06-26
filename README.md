@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**EAR: Erasing Concepts from Unified Autoregressive Models**|Haipeng Fan et.al.|[2506.20151](http://arxiv.org/abs/2506.20151)|null|
+|**2025-06-24**|**Verifiable Unlearning on Edge**|Mohammad M Maheri et.al.|[2506.20037](http://arxiv.org/abs/2506.20037)|null|
+|**2025-06-24**|**Orthogonal Soft Pruning for Efficient Class Unlearning**|Qinghui Gong et.al.|[2506.19891](http://arxiv.org/abs/2506.19891)|null|
 |**2025-06-24**|**Orthogonal Finetuning Made Scalable**|Zeju Qiu et.al.|[2506.19847](http://arxiv.org/abs/2506.19847)|null|
 |**2025-06-24**|**Leveraging Lightweight Generators for Memory Efficient Continual Learning**|Christiaan Lamers et.al.|[2506.19692](http://arxiv.org/abs/2506.19692)|null|
 |**2025-06-24**|**KnowMap: Efficient Knowledge-Driven Task Adaptation for LLMs**|Kelin Fu et.al.|[2506.19527](http://arxiv.org/abs/2506.19527)|null|
