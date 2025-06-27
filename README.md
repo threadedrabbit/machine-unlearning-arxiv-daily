@@ -12,6 +12,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Pay Attention to Small Weights**|Chao Zhou et.al.|[2506.21374](http://arxiv.org/abs/2506.21374)|null|
+|**2025-06-26**|**Continual Self-Supervised Learning with Masked Autoencoders in Remote Sensing**|Lars Möllenbrok et.al.|[2506.21312](http://arxiv.org/abs/2506.21312)|null|
+|**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[2506.21260](http://arxiv.org/abs/2506.21260)|null|
+|**2025-06-26**|**Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks**|Deepak Kumar Panda et.al.|[2506.21129](http://arxiv.org/abs/2506.21129)|null|
+|**2025-06-26**|**FedDAA: Dynamic Client Clustering for Concept Drift Adaptation in Federated Learning**|Fu Peng et.al.|[2506.21054](http://arxiv.org/abs/2506.21054)|null|
+|**2025-06-26**|**Little By Little: Continual Learning via Self-Activated Sparse Mixture-of-Rank Adaptive Learning**|Haodong Lu et.al.|[2506.21035](http://arxiv.org/abs/2506.21035)|null|
+|**2025-06-26**|**Model State Arithmetic for Machine Unlearning**|Keivan Rezaei et.al.|[2506.20941](http://arxiv.org/abs/2506.20941)|null|
+|**2025-06-25**|**On the Necessity of Output Distribution Reweighting for Effective Class Unlearning**|Yian Wang et.al.|[2506.20893](http://arxiv.org/abs/2506.20893)|null|
 |**2025-06-25**|**EAR: Erasing Concepts from Unified Autoregressive Models**|Haipeng Fan et.al.|[2506.20151](http://arxiv.org/abs/2506.20151)|null|
 |**2025-06-24**|**Verifiable Unlearning on Edge**|Mohammad M Maheri et.al.|[2506.20037](http://arxiv.org/abs/2506.20037)|null|
 |**2025-06-24**|**Orthogonal Soft Pruning for Efficient Class Unlearning**|Qinghui Gong et.al.|[2506.19891](http://arxiv.org/abs/2506.19891)|null|
