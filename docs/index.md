@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 ## Machine Unlearning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -60,7 +60,7 @@ layout: default
 |**2025-06-15**|**Reasoning Model Unlearning: Forgetting Traces, Not Just Answers, While Preserving Reasoning Skills**|Changsheng Wang et.al.|[2506.12963](http://arxiv.org/abs/2506.12963)|null|
 |**2025-06-14**|**OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics**|Vineeth Dorna et.al.|[2506.12618](http://arxiv.org/abs/2506.12618)|**[link](https://github.com/locuslab/open-unlearning)**|
 |**2025-06-14**|**When Forgetting Triggers Backdoors: A Clean Unlearning Attack**|Marco Arazzi et.al.|[2506.12522](http://arxiv.org/abs/2506.12522)|null|
-|**2025-06-21**|**Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization**|Filip Sondej et.al.|[2506.12484](http://arxiv.org/abs/2506.12484)|null|
+|**2025-06-30**|**Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization**|Filip Sondej et.al.|[2506.12484](http://arxiv.org/abs/2506.12484)|null|
 |**2025-06-14**|**SPIRE: Conditional Personalization for Federated Diffusion Generative Models**|Kaan Ozkara et.al.|[2506.12303](http://arxiv.org/abs/2506.12303)|null|
 |**2025-06-12**|**UCD: Unlearning in LLMs via Contrastive Decoding**|Vinith M. Suriyakumar et.al.|[2506.12097](http://arxiv.org/abs/2506.12097)|null|
 |**2025-06-13**|**Machine Unlearning for Robust DNNs: Attribution-Guided Partitioning and Neuron Pruning in Noisy Environments**|Deliang Jin et.al.|[2506.11615](http://arxiv.org/abs/2506.11615)|null|
@@ -74,13 +74,13 @@ layout: default
 |**2025-06-11**|**Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**|Haochen Liu et.al.|[2506.09800](http://arxiv.org/abs/2506.09800)|null|
 |**2025-06-11**|**Auto-Compressing Networks**|Vaggelis Dorovatas et.al.|[2506.09714](http://arxiv.org/abs/2506.09714)|null|
 |**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623](http://arxiv.org/abs/2506.09623)|null|
-|**2025-06-11**|**Improved Supervised Fine-Tuning for Large Language Models to Mitigate Catastrophic Forgetting**|Fei Ding et.al.|[2506.09428](http://arxiv.org/abs/2506.09428)|null|
+|**2025-06-28**|**Improved Supervised Fine-Tuning for Large Language Models to Mitigate Catastrophic Forgetting**|Fei Ding et.al.|[2506.09428](http://arxiv.org/abs/2506.09428)|null|
 |**2025-06-11**|**ErrorEraser: Unlearning Data Bias for Improved Continual Learning**|Xuemei Cao et.al.|[2506.09347](http://arxiv.org/abs/2506.09347)|null|
 |**2025-06-10**|**SoK: Machine Unlearning for Large Language Models**|Jie Ren et.al.|[2506.09227](http://arxiv.org/abs/2506.09227)|null|
 |**2025-06-13**|**LLaVA-c: Continual Improved Visual Instruction Tuning**|Wenzhuo Liu et.al.|[2506.08666](http://arxiv.org/abs/2506.08666)|null|
 |**2025-06-10**|**Hierarchical Neural Collapse Detection Transformer for Class Incremental Object Detection**|Duc Thanh Pham et.al.|[2506.08562](http://arxiv.org/abs/2506.08562)|null|
 |**2025-06-09**|**SHIELD: Secure Hypernetworks for Incremental Expansion Learning Defense**|Patryk Krukowski et.al.|[2506.08255](http://arxiv.org/abs/2506.08255)|null|
-|**2025-06-09**|**Dealing with the Evil Twins: Improving Random Augmentation by Addressing Catastrophic Forgetting of Diverse Augmentations**|Dongkyu Cho et.al.|[2506.08240](http://arxiv.org/abs/2506.08240)|null|
+|**2025-06-27**|**Dealing with the Evil Twins: Improving Random Augmentation by Addressing Catastrophic Forgetting of Diverse Augmentations**|Dongkyu Cho et.al.|[2506.08240](http://arxiv.org/abs/2506.08240)|null|
 |**2025-06-09**|**BLUR: A Bi-Level Optimization Approach for LLM Unlearning**|Hadi Reisizadeh et.al.|[2506.08164](http://arxiv.org/abs/2506.08164)|**[link](https://github.com/optimai-lab/blurllmunlearning)**|
 |**2025-06-09**|**LLM Unlearning Should Be Form-Independent**|Xiaotian Ye et.al.|[2506.07795](http://arxiv.org/abs/2506.07795)|null|
 |**2025-06-09**|**Beyond Benchmarks: A Novel Framework for Domain-Specific LLM Evaluation and Knowledge Mapping**|Nitin Sharma et.al.|[2506.07658](http://arxiv.org/abs/2506.07658)|null|
@@ -205,7 +205,7 @@ layout: default
 |**2025-02-07**|**Do Unlearning Methods Remove Information from Language Model Weights?**|Aghyad Deeb et.al.|[2410.08827](http://arxiv.org/abs/2410.08827)|**[link](https://github.com/aghyad-deeb/unlearning_evaluation)**|
 |**2025-03-09**|**Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning**|Saemi Moon et.al.|[2410.05664](http://arxiv.org/abs/2410.05664)|null|
 |**2025-04-08**|**Position: LLM Unlearning Benchmarks are Weak Measures of Progress**|Pratiksha Thaker et.al.|[2410.02879](http://arxiv.org/abs/2410.02879)|null|
-|**2024-10-02**|**Deep Unlearn: Benchmarking Machine Unlearning**|Xavier F. Cadet et.al.|[2410.01276](http://arxiv.org/abs/2410.01276)|null|
+|**2025-06-30**|**Deep Unlearn: Benchmarking Machine Unlearning for Image Classification**|Xavier F. Cadet et.al.|[2410.01276](http://arxiv.org/abs/2410.01276)|null|
 |**2024-09-18**|**MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts**|Tianle Gu et.al.|[2409.11844](http://arxiv.org/abs/2409.11844)|**[link](https://github.com/carol-gutianle/meow)**|
 |**2024-12-22**|**CURE4Rec: A Benchmark for Recommendation Unlearning with Deeper Influence**|Chaochao Chen et.al.|[2408.14393](http://arxiv.org/abs/2408.14393)|**[link](https://github.com/xiye7lai/cure4rec)**|
 |**2024-08-20**|**Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models**|Hongbang Yuan et.al.|[2408.10682](http://arxiv.org/abs/2408.10682)|null|
@@ -314,7 +314,7 @@ layout: default
 |**2024-10-30**|**What makes unlearning hard and what to do about it**|Kairan Zhao et.al.|[2406.01257](http://arxiv.org/abs/2406.01257)|**[link](https://github.com/kairanzhao/rum)**|
 |**2024-10-13**|**ModelLock: Locking Your Model With a Spell**|Yifeng Gao et.al.|[2405.16285](http://arxiv.org/abs/2405.16285)|null|
 |**2025-02-25**|**Everything is Editable: Extend Knowledge Editing to Unstructured Data in Large Language Models**|Jingcheng Deng et.al.|[2405.15349](http://arxiv.org/abs/2405.15349)|**[link](https://github.com/TrustedLLM/UnKE)**|
-|**2024-12-17**|**Multi-Modal Recommendation Unlearning for Legal, Licensing, and Modality Constraints**|Yash Sinha et.al.|[2405.15328](http://arxiv.org/abs/2405.15328)|null|
+|**2025-06-29**|**Multi-Modal Recommendation Unlearning for Legal, Licensing, and Modality Constraints**|Yash Sinha et.al.|[2405.15328](http://arxiv.org/abs/2405.15328)|null|
 |**2024-10-09**|**Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models**|Yimeng Zhang et.al.|[2405.15234](http://arxiv.org/abs/2405.15234)|**[link](https://github.com/optml-group/advunlearn)**|
 |**2024-05-23**|**EditWorld: Simulating World Dynamics for Instruction-Following Image Editing**|Ling Yang et.al.|[2405.14785](http://arxiv.org/abs/2405.14785)|**[link](https://github.com/yangling0818/editworld)**|
 |**2024-05-31**|**ReasonPix2Pix: Instruction Reasoning Dataset for Advanced Image Editing**|Ying Jin et.al.|[2405.11190](http://arxiv.org/abs/2405.11190)|null|
