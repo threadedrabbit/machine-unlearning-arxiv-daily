@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 ## Machine Unlearning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -299,7 +299,7 @@ layout: default
 |**2025-05-07**|**Learning from Convolution-based Unlearnable Datasets**|Dohyun Kim et.al.|[2411.01742](http://arxiv.org/abs/2411.01742)|**[link](https://github.com/aseriesof-tubes/RSK)**|
 |**2025-06-05**|**CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP**|Tianyu Yang et.al.|[2410.23330](http://arxiv.org/abs/2410.23330)|null|
 |**2024-11-11**|**Attribute-to-Delete: Machine Unlearning via Datamodel Matching**|Kristian Georgiev et.al.|[2410.23232](http://arxiv.org/abs/2410.23232)|null|
-|**2024-10-08**|**NegMerge: Consensual Weight Negation for Strong Machine Unlearning**|Hyoseo Kim et.al.|[2410.05583](http://arxiv.org/abs/2410.05583)|**[link](https://github.com/naver-ai/negmerge)**|
+|**2025-07-02**|**NegMerge: Sign-Consensual Weight Merging for Machine Unlearning**|Hyo Seo Kim et.al.|[2410.05583](http://arxiv.org/abs/2410.05583)|**[link](https://github.com/naver-ai/negmerge)**|
 |**2024-10-26**|**Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion**|Hengrui Gu et.al.|[2409.17928](http://arxiv.org/abs/2409.17928)|**[link](https://github.com/hengrui-gu/t2iknowledgeediting)**|
 |**2024-12-17**|**Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models**|Anmol Mekala et.al.|[2409.13474](http://arxiv.org/abs/2409.13474)|**[link](https://github.com/molereddy/Alternate-Preference-Optimization)**|
 |**2024-09-19**|**LLM Surgery: Efficient Knowledge Unlearning and Editing in Large Language Models**|Akshaj Kumar Veldanda et.al.|[2409.13054](http://arxiv.org/abs/2409.13054)|null|

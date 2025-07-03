@@ -1,4 +1,4 @@
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -173,7 +173,7 @@
 |**2025-05-26**|**Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?**|Zexi Li et.al.|[2505.19855](http://arxiv.org/abs/2505.19855)|null|
 |**2025-05-26**|**Light distillation for Incremental Graph Convolution Collaborative Filtering**|X Fan et.al.|[2505.19810](http://arxiv.org/abs/2505.19810)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 ## Machine Unlearning Benchmarks
 
@@ -242,7 +242,7 @@
 |**2020-09-14**|**CVPR 2020 Continual Learning in Computer Vision Competition: Approaches, Results, Current Challenges and Future Directions**|Vincenzo Lomonaco et.al.|[2009.09929](http://arxiv.org/abs/2009.09929)|null|
 |**2021-03-02**|**Using Hindsight to Anchor Past Knowledge in Continual Learning**|Arslan Chaudhry et.al.|[2002.08165](http://arxiv.org/abs/2002.08165)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
 ## Machine Unlearning Datasets
 
@@ -308,7 +308,7 @@
 |**2025-05-07**|**Learning from Convolution-based Unlearnable Datasets**|Dohyun Kim et.al.|[2411.01742](http://arxiv.org/abs/2411.01742)|**[link](https://github.com/aseriesof-tubes/RSK)**|
 |**2025-06-05**|**CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP**|Tianyu Yang et.al.|[2410.23330](http://arxiv.org/abs/2410.23330)|null|
 |**2024-11-11**|**Attribute-to-Delete: Machine Unlearning via Datamodel Matching**|Kristian Georgiev et.al.|[2410.23232](http://arxiv.org/abs/2410.23232)|null|
-|**2024-10-08**|**NegMerge: Consensual Weight Negation for Strong Machine Unlearning**|Hyoseo Kim et.al.|[2410.05583](http://arxiv.org/abs/2410.05583)|**[link](https://github.com/naver-ai/negmerge)**|
+|**2025-07-02**|**NegMerge: Sign-Consensual Weight Merging for Machine Unlearning**|Hyo Seo Kim et.al.|[2410.05583](http://arxiv.org/abs/2410.05583)|**[link](https://github.com/naver-ai/negmerge)**|
 |**2024-10-26**|**Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion**|Hengrui Gu et.al.|[2409.17928](http://arxiv.org/abs/2409.17928)|**[link](https://github.com/hengrui-gu/t2iknowledgeediting)**|
 |**2024-12-17**|**Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models**|Anmol Mekala et.al.|[2409.13474](http://arxiv.org/abs/2409.13474)|**[link](https://github.com/molereddy/Alternate-Preference-Optimization)**|
 |**2024-09-19**|**LLM Surgery: Efficient Knowledge Unlearning and Editing in Large Language Models**|Akshaj Kumar Veldanda et.al.|[2409.13054](http://arxiv.org/abs/2409.13054)|null|
@@ -355,5 +355,5 @@
 |**2023-11-21**|**CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation**|Ali Abbasi et.al.|[2311.12999](http://arxiv.org/abs/2311.12999)|null|
 |**2023-10-16**|**Enhancing Interpretability using Human Similarity Judgements to Prune Word Embeddings**|Natalia Flechas Manrique et.al.|[2310.10262](http://arxiv.org/abs/2310.10262)|null|
 
-<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250703>back to top</a>)</p>
 
