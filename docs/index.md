@@ -7,6 +7,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**How Weight Resampling and Optimizers Shape the Dynamics of Continual Learning and Forgetting in Neural Networks**|Lapo Frati et.al.|[2507.01559](http://arxiv.org/abs/2507.01559)|null|
+|**2025-07-02**|**PULSE: Practical Evaluation Scenarios for Large Multimodal Model Unlearning**|Tatsuki Kawakami et.al.|[2507.01271](http://arxiv.org/abs/2507.01271)|null|
+|**2025-07-01**|**The Medium Is Not the Message: Deconfounding Text Embeddings via Linear Concept Erasure**|Yu Fan et.al.|[2507.01234](http://arxiv.org/abs/2507.01234)|null|
+|**2025-07-02**|**ExPaMoE: An Expandable Parallel Mixture of Experts for Continual Test-Time Adaptation**|JianChao Zhao et.al.|[2507.00502](http://arxiv.org/abs/2507.00502)|null|
+|**2025-07-01**|**Bisecle: Binding and Separation in Continual Learning for Video Language Understanding**|Yue Tan et.al.|[2507.00469](http://arxiv.org/abs/2507.00469)|null|
+|**2025-06-30**|**LIMAO: A Framework for Lifelong Modular Learned Query Optimization**|Qihan Zhang et.al.|[2507.00188](http://arxiv.org/abs/2507.00188)|null|
+|**2025-06-23**|**Catastrophic Forgetting Mitigation via Discrepancy-Weighted Experience Replay**|Xinrun Xu et.al.|[2507.00042](http://arxiv.org/abs/2507.00042)|null|
+|**2025-06-13**|**SWE-Bench-CL: Continual Learning for Coding Agents**|Thomas Joshi et.al.|[2507.00014](http://arxiv.org/abs/2507.00014)|null|
 |**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|
 |**2025-06-30**|**Reinforcement Fine-Tuning Enables MLLMs Learning Novel Tasks Stably**|Zhihao Zhang et.al.|[2506.23508](http://arxiv.org/abs/2506.23508)|null|
 |**2025-06-29**|**FedRef: Communication-Efficient Bayesian Fine Tuning with Reference Model**|Taehwan Yoon et.al.|[2506.23210](http://arxiv.org/abs/2506.23210)|null|
@@ -172,6 +180,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**PULSE: Practical Evaluation Scenarios for Large Multimodal Model Unlearning**|Tatsuki Kawakami et.al.|[2507.01271](http://arxiv.org/abs/2507.01271)|null|
 |**2025-06-20**|**Large Language Model Unlearning for Source Code**|Xue Jiang et.al.|[2506.17125](http://arxiv.org/abs/2506.17125)|null|
 |**2025-05-28**|**BLUR: A Benchmark for LLM Unlearning Robust to Forget-Retain Overlap**|Shengyuan Hu et.al.|[2506.15699](http://arxiv.org/abs/2506.15699)|null|
 |**2025-06-18**|**Learning-Time Encoding Shapes Unlearning in LLMs**|Ruihan Wu et.al.|[2506.15076](http://arxiv.org/abs/2506.15076)|**[link](https://github.com/wrh14/learning_time_shapes_unlearning)**|
