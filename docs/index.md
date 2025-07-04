@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment**|Ke-Han Lu et.al.|[2507.02768](http://arxiv.org/abs/2507.02768)|null|
+|**2025-07-03**|**Continual Gradient Low-Rank Projection Fine-Tuning for LLMs**|Chenxu Wang et.al.|[2507.02503](http://arxiv.org/abs/2507.02503)|null|
+|**2025-07-03**|**Holistic Continual Learning under Concept Drift with Adaptive Memory Realignment**|Alif Ashrafee et.al.|[2507.02310](http://arxiv.org/abs/2507.02310)|null|
+|**2025-07-02**|**GeoAda: Efficiently Finetune Geometric Diffusion Models with Equivariant Adapters**|Wanjia Zhao et.al.|[2507.02085](http://arxiv.org/abs/2507.02085)|null|
 |**2025-07-02**|**How Weight Resampling and Optimizers Shape the Dynamics of Continual Learning and Forgetting in Neural Networks**|Lapo Frati et.al.|[2507.01559](http://arxiv.org/abs/2507.01559)|null|
 |**2025-07-02**|**PULSE: Practical Evaluation Scenarios for Large Multimodal Model Unlearning**|Tatsuki Kawakami et.al.|[2507.01271](http://arxiv.org/abs/2507.01271)|null|
 |**2025-07-01**|**The Medium Is Not the Message: Deconfounding Text Embeddings via Linear Concept Erasure**|Yu Fan et.al.|[2507.01234](http://arxiv.org/abs/2507.01234)|null|
