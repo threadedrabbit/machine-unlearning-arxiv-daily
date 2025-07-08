@@ -12,13 +12,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning**|Giwon Lee et.al.|[2507.04790](http://arxiv.org/abs/2507.04790)|null|
+|**2025-07-07**|**Efficient Unlearning with Privacy Guarantees**|Josep Domingo-Ferrer et.al.|[2507.04771](http://arxiv.org/abs/2507.04771)|null|
+|**2025-07-07**|**DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics**|Yayu Long et.al.|[2507.04661](http://arxiv.org/abs/2507.04661)|null|
+|**2025-07-06**|**Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs**|Yan Scholten et.al.|[2507.04219](http://arxiv.org/abs/2507.04219)|null|
+|**2025-07-05**|**Exploring Kolmogorov-Arnold Network Expansions in Vision Transformers for Mitigating Catastrophic Forgetting in Continual Learning**|Zahid Ullah et.al.|[2507.04020](http://arxiv.org/abs/2507.04020)|null|
+|**2025-07-04**|**SAMed-2: Selective Memory Enhanced Medical Segment Anything Model**|Zhiling Yan et.al.|[2507.03698](http://arxiv.org/abs/2507.03698)|null|
+|**2025-07-04**|**Dual-Alignment Knowledge Retention for Continual Medical Image Segmentation**|Yuxin Ye et.al.|[2507.03638](http://arxiv.org/abs/2507.03638)|null|
+|**2025-07-04**|**NOVO: Unlearning-Compliant Vision Transformers**|Soumya Roy et.al.|[2507.03281](http://arxiv.org/abs/2507.03281)|null|
+|**2025-07-03**|**Optimisation Is Not What You Need**|Alfredo Ibias et.al.|[2507.03045](http://arxiv.org/abs/2507.03045)|null|
 |**2025-07-03**|**DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment**|Ke-Han Lu et.al.|[2507.02768](http://arxiv.org/abs/2507.02768)|null|
 |**2025-07-03**|**Continual Gradient Low-Rank Projection Fine-Tuning for LLMs**|Chenxu Wang et.al.|[2507.02503](http://arxiv.org/abs/2507.02503)|null|
 |**2025-07-03**|**Holistic Continual Learning under Concept Drift with Adaptive Memory Realignment**|Alif Ashrafee et.al.|[2507.02310](http://arxiv.org/abs/2507.02310)|null|
 |**2025-07-02**|**GeoAda: Efficiently Finetune Geometric Diffusion Models with Equivariant Adapters**|Wanjia Zhao et.al.|[2507.02085](http://arxiv.org/abs/2507.02085)|null|
 |**2025-07-02**|**How Weight Resampling and Optimizers Shape the Dynamics of Continual Learning and Forgetting in Neural Networks**|Lapo Frati et.al.|[2507.01559](http://arxiv.org/abs/2507.01559)|null|
 |**2025-07-02**|**PULSE: Practical Evaluation Scenarios for Large Multimodal Model Unlearning**|Tatsuki Kawakami et.al.|[2507.01271](http://arxiv.org/abs/2507.01271)|null|
-|**2025-07-01**|**The Medium Is Not the Message: Deconfounding Text Embeddings via Linear Concept Erasure**|Yu Fan et.al.|[2507.01234](http://arxiv.org/abs/2507.01234)|null|
+|**2025-07-05**|**The Medium Is Not the Message: Deconfounding Text Embeddings via Linear Concept Erasure**|Yu Fan et.al.|[2507.01234](http://arxiv.org/abs/2507.01234)|null|
 |**2025-07-02**|**ExPaMoE: An Expandable Parallel Mixture of Experts for Continual Test-Time Adaptation**|JianChao Zhao et.al.|[2507.00502](http://arxiv.org/abs/2507.00502)|null|
 |**2025-07-01**|**Bisecle: Binding and Separation in Continual Learning for Video Language Understanding**|Yue Tan et.al.|[2507.00469](http://arxiv.org/abs/2507.00469)|null|
 |**2025-06-30**|**LIMAO: A Framework for Lifelong Modular Learned Query Optimization**|Qihan Zhang et.al.|[2507.00188](http://arxiv.org/abs/2507.00188)|null|
@@ -261,6 +270,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-06**|**Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs**|Yan Scholten et.al.|[2507.04219](http://arxiv.org/abs/2507.04219)|null|
+|**2025-07-04**|**NOVO: Unlearning-Compliant Vision Transformers**|Soumya Roy et.al.|[2507.03281](http://arxiv.org/abs/2507.03281)|null|
 |**2025-06-29**|**Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings**|Shahad Hardan et.al.|[2506.23145](http://arxiv.org/abs/2506.23145)|null|
 |**2025-05-28**|**BLUR: A Benchmark for LLM Unlearning Robust to Forget-Retain Overlap**|Shengyuan Hu et.al.|[2506.15699](http://arxiv.org/abs/2506.15699)|null|
 |**2025-06-17**|**Train Once, Forget Precisely: Anchored Optimization for Efficient Post-Hoc Unlearning**|Prabhav Sanga et.al.|[2506.14515](http://arxiv.org/abs/2506.14515)|null|
