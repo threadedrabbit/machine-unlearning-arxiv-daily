@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 ## Machine Unlearning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -35,7 +35,7 @@ layout: default
 |**2025-06-29**|**FedRef: Communication-Efficient Bayesian Fine Tuning with Reference Model**|Taehwan Yoon et.al.|[2506.23210](http://arxiv.org/abs/2506.23210)|null|
 |**2025-06-29**|**Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings**|Shahad Hardan et.al.|[2506.23145](http://arxiv.org/abs/2506.23145)|null|
 |**2025-06-27**|**SAGE: Spliced-Audio Generated Data for Enhancing Foundational Models in Low-Resource Arabic-English Code-Switched Speech Recognition**|Muhammad Umar Farooq et.al.|[2506.22143](http://arxiv.org/abs/2506.22143)|null|
-|**2025-06-27**|**DeepTalk: Towards Seamless and Smart Speech Interaction with Adaptive Modality-Specific MoE**|Hang Shao et.al.|[2506.21864](http://arxiv.org/abs/2506.21864)|null|
+|**2025-07-09**|**DeepTalk: Towards Seamless and Smart Speech Interaction with Adaptive Modality-Specific MoE**|Hang Shao et.al.|[2506.21864](http://arxiv.org/abs/2506.21864)|null|
 |**2025-06-16**|**Adapting Whisper for Parameter-efficient Code-Switching Speech Recognition via Soft Prompt Tuning**|Hongli Yang et.al.|[2506.21576](http://arxiv.org/abs/2506.21576)|null|
 |**2025-06-26**|**Pay Attention to Small Weights**|Chao Zhou et.al.|[2506.21374](http://arxiv.org/abs/2506.21374)|null|
 |**2025-06-26**|**Continual Self-Supervised Learning with Masked Autoencoders in Remote Sensing**|Lars Möllenbrok et.al.|[2506.21312](http://arxiv.org/abs/2506.21312)|null|
