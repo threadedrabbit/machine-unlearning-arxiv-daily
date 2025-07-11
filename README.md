@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Rethinking Query-based Transformer for Continual Image Segmentation**|Yuchen Zhu et.al.|[2507.07831](http://arxiv.org/abs/2507.07831)|null|
+|**2025-07-10**|**OPC: One-Point-Contraction Unlearning Toward Deep Feature Forgetting**|Jaeheun Jung et.al.|[2507.07754](http://arxiv.org/abs/2507.07754)|null|
+|**2025-07-09**|**Image Can Bring Your Memory Back: A Novel Multi-Modal Guided Attack against Image Generation Model Unlearning**|Renyang Liu et.al.|[2507.07139](http://arxiv.org/abs/2507.07139)|null|
+|**2025-07-09**|**Automating Evaluation of Diffusion Model Unlearning with (Vision-) Language Model World Knowledge**|Eric Yeats et.al.|[2507.07137](http://arxiv.org/abs/2507.07137)|null|
+|**2025-07-08**|**Growing Transformers: Modular Composition and Layer-wise Expansion on a Frozen Substrate**|A. Bochkov et.al.|[2507.07129](http://arxiv.org/abs/2507.07129)|null|
 |**2025-07-05**|**LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing**|Jiahao Chen et.al.|[2507.07056](http://arxiv.org/abs/2507.07056)|null|
 |**2025-07-09**|**Temporal Information Retrieval via Time-Specifier Model Merging**|SeungYoon Han et.al.|[2507.06782](http://arxiv.org/abs/2507.06782)|null|
 |**2025-07-10**|**Concept Unlearning by Modeling Key Steps of Diffusion Process**|Chaoshuo Zhang et.al.|[2507.06526](http://arxiv.org/abs/2507.06526)|null|
@@ -205,6 +210,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**OPC: One-Point-Contraction Unlearning Toward Deep Feature Forgetting**|Jaeheun Jung et.al.|[2507.07754](http://arxiv.org/abs/2507.07754)|null|
 |**2025-07-02**|**PULSE: Practical Evaluation Scenarios for Large Multimodal Model Unlearning**|Tatsuki Kawakami et.al.|[2507.01271](http://arxiv.org/abs/2507.01271)|null|
 |**2025-06-20**|**Large Language Model Unlearning for Source Code**|Xue Jiang et.al.|[2506.17125](http://arxiv.org/abs/2506.17125)|null|
 |**2025-05-28**|**BLUR: A Benchmark for LLM Unlearning Robust to Forget-Retain Overlap**|Shengyuan Hu et.al.|[2506.15699](http://arxiv.org/abs/2506.15699)|null|
