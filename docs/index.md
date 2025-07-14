@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 ## Machine Unlearning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -52,7 +52,7 @@ layout: default
 |**2025-06-26**|**FedDAA: Dynamic Client Clustering for Concept Drift Adaptation in Federated Learning**|Fu Peng et.al.|[2506.21054](http://arxiv.org/abs/2506.21054)|null|
 |**2025-06-26**|**Little By Little: Continual Learning via Self-Activated Sparse Mixture-of-Rank Adaptive Learning**|Haodong Lu et.al.|[2506.21035](http://arxiv.org/abs/2506.21035)|null|
 |**2025-06-26**|**Model State Arithmetic for Machine Unlearning**|Keivan Rezaei et.al.|[2506.20941](http://arxiv.org/abs/2506.20941)|null|
-|**2025-06-25**|**On the Necessity of Output Distribution Reweighting for Effective Class Unlearning**|Yian Wang et.al.|[2506.20893](http://arxiv.org/abs/2506.20893)|null|
+|**2025-07-10**|**On the Necessity of Output Distribution Reweighting for Effective Class Unlearning**|Yian Wang et.al.|[2506.20893](http://arxiv.org/abs/2506.20893)|null|
 |**2025-06-25**|**EAR: Erasing Concepts from Unified Autoregressive Models**|Haipeng Fan et.al.|[2506.20151](http://arxiv.org/abs/2506.20151)|null|
 |**2025-06-24**|**Verifiable Unlearning on Edge**|Mohammad M Maheri et.al.|[2506.20037](http://arxiv.org/abs/2506.20037)|null|
 |**2025-06-24**|**Orthogonal Soft Pruning for Efficient Class Unlearning**|Qinghui Gong et.al.|[2506.19891](http://arxiv.org/abs/2506.19891)|null|
@@ -308,7 +308,7 @@ layout: default
 |**2025-05-01**|**Omni-Dish: Photorealistic and Faithful Image Generation and Editing for Arbitrary Chinese Dishes**|Huijie Liu et.al.|[2504.09948](http://arxiv.org/abs/2504.09948)|null|
 |**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|**[link](https://github.com/kenantang/spice)**|
 |**2025-06-01**|**ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems**|Chenxi Wang et.al.|[2503.20756](http://arxiv.org/abs/2503.20756)|**[link](https://github.com/zjunlp/easyedit)**|
-|**2025-03-26**|**InsViE-1M: Effective Instruction-based Video Editing with Elaborate Dataset Construction**|Yuhui Wu et.al.|[2503.20287](http://arxiv.org/abs/2503.20287)|**[link](https://github.com/langmanbusi/insvie)**|
+|**2025-07-11**|**InsViE-1M: Effective Instruction-based Video Editing with Elaborate Dataset Construction**|Yuhui Wu et.al.|[2503.20287](http://arxiv.org/abs/2503.20287)|**[link](https://github.com/langmanbusi/insvie)**|
 |**2025-03-20**|**SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders**|Qing Li et.al.|[2503.14530](http://arxiv.org/abs/2503.14530)|null|
 |**2025-03-12**|**Group-robust Machine Unlearning**|Thomas De Min et.al.|[2503.09330](http://arxiv.org/abs/2503.09330)|**[link](https://github.com/tdemin16/group-robust_machine_unlearning)**|
 |**2025-03-04**|**MindBridge: Scalable and Cross-Model Knowledge Editing via Memory-Augmented Modality**|Shuaike Li et.al.|[2503.02701](http://arxiv.org/abs/2503.02701)|**[link](https://github.com/crashbugger/mindbridge)**|
