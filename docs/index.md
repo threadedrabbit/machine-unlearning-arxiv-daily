@@ -7,6 +7,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**BURN: Backdoor Unlearning via Adversarial Boundary Analysis**|Yanghao Su et.al.|[2507.10491](http://arxiv.org/abs/2507.10491)|null|
+|**2025-07-14**|**Overcoming catastrophic forgetting in neural networks**|Brandon Shuen Yi Loke et.al.|[2507.10485](http://arxiv.org/abs/2507.10485)|null|
+|**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
+|**2025-07-13**|**Leveraging Distribution Matching to Make Approximate Machine Unlearning Faster**|Junaid Iqbal Khan et.al.|[2507.09786](http://arxiv.org/abs/2507.09786)|null|
+|**2025-07-12**|**Continual Reinforcement Learning by Planning with Online World Models**|Zichen Liu et.al.|[2507.09177](http://arxiv.org/abs/2507.09177)|null|
+|**2025-07-11**|**Confounder-Free Continual Learning via Recursive Feature Normalization**|Yash Shah et.al.|[2507.09031](http://arxiv.org/abs/2507.09031)|null|
 |**2025-07-11**|**Catastrophic Forgetting Mitigation Through Plateau Phase Activity Profiling**|Idan Mashiach et.al.|[2507.08736](http://arxiv.org/abs/2507.08736)|null|
 |**2025-07-11**|**KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation**|Songlin Zhai et.al.|[2507.08704](http://arxiv.org/abs/2507.08704)|null|
 |**2025-07-11**|**BayesTTA: Continual-Temporal Test-Time Adaptation for Vision-Language Models via Gaussian Discriminant Analysis**|Shuang Cui et.al.|[2507.08607](http://arxiv.org/abs/2507.08607)|null|
@@ -278,6 +284,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-13**|**Leveraging Distribution Matching to Make Approximate Machine Unlearning Faster**|Junaid Iqbal Khan et.al.|[2507.09786](http://arxiv.org/abs/2507.09786)|null|
 |**2025-07-11**|**Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs**|Yan Scholten et.al.|[2507.04219](http://arxiv.org/abs/2507.04219)|null|
 |**2025-07-04**|**NOVO: Unlearning-Compliant Vision Transformers**|Soumya Roy et.al.|[2507.03281](http://arxiv.org/abs/2507.03281)|null|
 |**2025-06-29**|**Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings**|Shahad Hardan et.al.|[2506.23145](http://arxiv.org/abs/2506.23145)|null|
