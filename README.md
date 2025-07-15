@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -31,7 +31,7 @@
 |**2025-07-07**|**Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning**|Giwon Lee et.al.|[2507.04790](http://arxiv.org/abs/2507.04790)|null|
 |**2025-07-07**|**Efficient Unlearning with Privacy Guarantees**|Josep Domingo-Ferrer et.al.|[2507.04771](http://arxiv.org/abs/2507.04771)|null|
 |**2025-07-07**|**DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics**|Yayu Long et.al.|[2507.04661](http://arxiv.org/abs/2507.04661)|null|
-|**2025-07-06**|**Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs**|Yan Scholten et.al.|[2507.04219](http://arxiv.org/abs/2507.04219)|null|
+|**2025-07-11**|**Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs**|Yan Scholten et.al.|[2507.04219](http://arxiv.org/abs/2507.04219)|null|
 |**2025-07-05**|**Exploring Kolmogorov-Arnold Network Expansions in Vision Transformers for Mitigating Catastrophic Forgetting in Continual Learning**|Zahid Ullah et.al.|[2507.04020](http://arxiv.org/abs/2507.04020)|null|
 |**2025-07-04**|**SAMed-2: Selective Memory Enhanced Medical Segment Anything Model**|Zhiling Yan et.al.|[2507.03698](http://arxiv.org/abs/2507.03698)|null|
 |**2025-07-04**|**Dual-Alignment Knowledge Retention for Continual Medical Image Segmentation**|Yuxin Ye et.al.|[2507.03638](http://arxiv.org/abs/2507.03638)|null|
@@ -90,7 +90,7 @@
 |**2025-06-04**|**Tripartite Weight-Space Ensemble for Few-Shot Class-Incremental Learning**|Juntae Lee et.al.|[2506.15720](http://arxiv.org/abs/2506.15720)|null|
 |**2025-06-18**|**DAILOC: Domain-Incremental Learning for Indoor Localization using Smartphones**|Akhil Singampalli et.al.|[2506.15554](http://arxiv.org/abs/2506.15554)|null|
 |**2025-06-18**|**An efficient forgetting-aware fine-tuning framework for pretrained universal machine-learning interatomic potentials**|Jisu Kim et.al.|[2506.15223](http://arxiv.org/abs/2506.15223)|**[link](https://github.com/kskjs1203/sevennet-reewc)**|
-|**2025-06-18**|**Towards Reliable Forgetting: A Survey on Machine Unlearning Verification, Challenges, and Future Directions**|Lulu Xue et.al.|[2506.15115](http://arxiv.org/abs/2506.15115)|null|
+|**2025-07-13**|**Towards Reliable Forgetting: A Survey on Machine Unlearning Verification**|Lulu Xue et.al.|[2506.15115](http://arxiv.org/abs/2506.15115)|null|
 |**2025-06-18**|**PDLRecover: Privacy-preserving Decentralized Model Recovery with Machine Unlearning**|Xiangman Li et.al.|[2506.15112](http://arxiv.org/abs/2506.15112)|null|
 |**2025-06-04**|**Self-Composing Policies for Scalable Continual Reinforcement Learning**|Mikel Malagón et.al.|[2506.14811](http://arxiv.org/abs/2506.14811)|null|
 |**2025-06-17**|**Don't Make It Up: Preserving Ignorance Awareness in LLM Fine-Tuning**|William F. Shen et.al.|[2506.14387](http://arxiv.org/abs/2506.14387)|null|
@@ -210,7 +210,7 @@
 |**2025-05-26**|**Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?**|Zexi Li et.al.|[2505.19855](http://arxiv.org/abs/2505.19855)|null|
 |**2025-05-26**|**Light distillation for Incremental Graph Convolution Collaborative Filtering**|X Fan et.al.|[2505.19810](http://arxiv.org/abs/2505.19810)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Machine Unlearning Benchmarks
 
@@ -281,13 +281,13 @@
 |**2020-09-14**|**CVPR 2020 Continual Learning in Computer Vision Competition: Approaches, Results, Current Challenges and Future Directions**|Vincenzo Lomonaco et.al.|[2009.09929](http://arxiv.org/abs/2009.09929)|null|
 |**2021-03-02**|**Using Hindsight to Anchor Past Knowledge in Continual Learning**|Arslan Chaudhry et.al.|[2002.08165](http://arxiv.org/abs/2002.08165)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Machine Unlearning Datasets
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-06**|**Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs**|Yan Scholten et.al.|[2507.04219](http://arxiv.org/abs/2507.04219)|null|
+|**2025-07-11**|**Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs**|Yan Scholten et.al.|[2507.04219](http://arxiv.org/abs/2507.04219)|null|
 |**2025-07-04**|**NOVO: Unlearning-Compliant Vision Transformers**|Soumya Roy et.al.|[2507.03281](http://arxiv.org/abs/2507.03281)|null|
 |**2025-06-29**|**Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings**|Shahad Hardan et.al.|[2506.23145](http://arxiv.org/abs/2506.23145)|null|
 |**2025-05-28**|**BLUR: A Benchmark for LLM Unlearning Robust to Forget-Retain Overlap**|Shengyuan Hu et.al.|[2506.15699](http://arxiv.org/abs/2506.15699)|null|
@@ -340,7 +340,7 @@
 |**2024-12-03**|**Improved Localized Machine Unlearning Through the Lens of Memorization**|Reihaneh Torkzadehmahani et.al.|[2412.02432](http://arxiv.org/abs/2412.02432)|null|
 |**2024-12-01**|**Learning to Forget using Hypernetworks**|Jose Miguel Lara Rangel et.al.|[2412.00761](http://arxiv.org/abs/2412.00761)|null|
 |**2025-03-29**|**AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea**|Qifan Yu et.al.|[2411.15738](http://arxiv.org/abs/2411.15738)|null|
-|**2024-11-22**|**VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing**|Jiahao Hu et.al.|[2411.15260](http://arxiv.org/abs/2411.15260)|null|
+|**2025-07-14**|**VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing**|Jiahao Hu et.al.|[2411.15260](http://arxiv.org/abs/2411.15260)|null|
 |**2024-11-21**|**GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter**|Aniruddha Bala et.al.|[2411.13794](http://arxiv.org/abs/2411.13794)|null|
 |**2024-11-13**|**Neural Corrective Machine Unranking**|Jingrui Hou et.al.|[2411.08562](http://arxiv.org/abs/2411.08562)|null|
 |**2024-11-16**|**Towards Operationalizing Right to Data Protection**|Abhinav Java et.al.|[2411.08506](http://arxiv.org/abs/2411.08506)|null|
@@ -396,5 +396,5 @@
 |**2023-11-21**|**CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation**|Ali Abbasi et.al.|[2311.12999](http://arxiv.org/abs/2311.12999)|null|
 |**2023-10-16**|**Enhancing Interpretability using Human Similarity Judgements to Prune Word Embeddings**|Natalia Flechas Manrique et.al.|[2310.10262](http://arxiv.org/abs/2310.10262)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
