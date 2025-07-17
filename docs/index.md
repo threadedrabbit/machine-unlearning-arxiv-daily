@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Nonlinear Concept Erasure: a Density Matching Approach**|Antoine Saillenfest et.al.|[2507.12341](http://arxiv.org/abs/2507.12341)|null|
+|**2025-07-16**|**PROL : Rehearsal Free Continual Learning in Streaming Data via Prompt Online Learning**|M. Anwar Ma'sum et.al.|[2507.12305](http://arxiv.org/abs/2507.12305)|null|
+|**2025-07-16**|**RegCL: Continual Adaptation of Segment Anything Model via Model Merging**|Yuan-Chen Shu et.al.|[2507.12297](http://arxiv.org/abs/2507.12297)|null|
+|**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
+|**2025-07-16**|**Information-Theoretic Generalization Bounds of Replay-based Continual Learning**|Wen Wen et.al.|[2507.12043](http://arxiv.org/abs/2507.12043)|null|
 |**2025-07-15**|**A Neural Network Model of Complementary Learning Systems: Pattern Separation and Completion for Continual Learning**|James P Jun et.al.|[2507.11393](http://arxiv.org/abs/2507.11393)|null|
 |**2025-07-15**|**What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests**|Dimitri Staufer et.al.|[2507.11128](http://arxiv.org/abs/2507.11128)|null|
 |**2025-07-15**|**Using Continual Learning for Real-Time Detection of Vulnerable Road Users in Complex Traffic Scenarios**|Faryal Aurooj Nasir et.al.|[2507.11046](http://arxiv.org/abs/2507.11046)|null|
