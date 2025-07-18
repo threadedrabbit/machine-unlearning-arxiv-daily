@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 ## Machine Unlearning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -337,7 +337,7 @@ layout: default
 |**2025-03-12**|**Group-robust Machine Unlearning**|Thomas De Min et.al.|[2503.09330](http://arxiv.org/abs/2503.09330)|**[link](https://github.com/tdemin16/group-robust_machine_unlearning)**|
 |**2025-03-04**|**MindBridge: Scalable and Cross-Model Knowledge Editing via Memory-Augmented Modality**|Shuaike Li et.al.|[2503.02701](http://arxiv.org/abs/2503.02701)|**[link](https://github.com/crashbugger/mindbridge)**|
 |**2025-03-04**|**Go Beyond Your Means: Unlearning with Per-Sample Gradient Orthogonalization**|Aviv Shamsian et.al.|[2503.02312](http://arxiv.org/abs/2503.02312)|null|
-|**2025-02-20**|**UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning**|Vaidehi Patil et.al.|[2502.15082](http://arxiv.org/abs/2502.15082)|**[link](https://github.com/vaidehi99/upcore)**|
+|**2025-07-16**|**UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning**|Vaidehi Patil et.al.|[2502.15082](http://arxiv.org/abs/2502.15082)|**[link](https://github.com/vaidehi99/upcore)**|
 |**2025-05-28**|**Which Retain Set Matters for LLM Unlearning? A Case Study on Entity Unlearning**|Hwan Chang et.al.|[2502.11441](http://arxiv.org/abs/2502.11441)|null|
 |**2025-03-12**|**Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists**|Bojia Zi et.al.|[2502.06734](http://arxiv.org/abs/2502.06734)|null|
 |**2025-04-29**|**REALEDIT: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations**|Peter Sushko et.al.|[2502.03629](http://arxiv.org/abs/2502.03629)|null|

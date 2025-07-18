@@ -1,4 +1,4 @@
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -226,7 +226,7 @@
 |**2025-05-26**|**Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?**|Zexi Li et.al.|[2505.19855](http://arxiv.org/abs/2505.19855)|null|
 |**2025-05-26**|**Light distillation for Incremental Graph Convolution Collaborative Filtering**|X Fan et.al.|[2505.19810](http://arxiv.org/abs/2505.19810)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## Machine Unlearning Benchmarks
 
@@ -297,7 +297,7 @@
 |**2020-09-14**|**CVPR 2020 Continual Learning in Computer Vision Competition: Approaches, Results, Current Challenges and Future Directions**|Vincenzo Lomonaco et.al.|[2009.09929](http://arxiv.org/abs/2009.09929)|null|
 |**2021-03-02**|**Using Hindsight to Anchor Past Knowledge in Continual Learning**|Arslan Chaudhry et.al.|[2002.08165](http://arxiv.org/abs/2002.08165)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 ## Machine Unlearning Datasets
 
@@ -346,7 +346,7 @@
 |**2025-03-12**|**Group-robust Machine Unlearning**|Thomas De Min et.al.|[2503.09330](http://arxiv.org/abs/2503.09330)|**[link](https://github.com/tdemin16/group-robust_machine_unlearning)**|
 |**2025-03-04**|**MindBridge: Scalable and Cross-Model Knowledge Editing via Memory-Augmented Modality**|Shuaike Li et.al.|[2503.02701](http://arxiv.org/abs/2503.02701)|**[link](https://github.com/crashbugger/mindbridge)**|
 |**2025-03-04**|**Go Beyond Your Means: Unlearning with Per-Sample Gradient Orthogonalization**|Aviv Shamsian et.al.|[2503.02312](http://arxiv.org/abs/2503.02312)|null|
-|**2025-02-20**|**UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning**|Vaidehi Patil et.al.|[2502.15082](http://arxiv.org/abs/2502.15082)|**[link](https://github.com/vaidehi99/upcore)**|
+|**2025-07-16**|**UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning**|Vaidehi Patil et.al.|[2502.15082](http://arxiv.org/abs/2502.15082)|**[link](https://github.com/vaidehi99/upcore)**|
 |**2025-05-28**|**Which Retain Set Matters for LLM Unlearning? A Case Study on Entity Unlearning**|Hwan Chang et.al.|[2502.11441](http://arxiv.org/abs/2502.11441)|null|
 |**2025-03-12**|**Señorita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists**|Bojia Zi et.al.|[2502.06734](http://arxiv.org/abs/2502.06734)|null|
 |**2025-04-29**|**REALEDIT: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations**|Peter Sushko et.al.|[2502.03629](http://arxiv.org/abs/2502.03629)|null|
@@ -414,5 +414,5 @@
 |**2023-11-21**|**CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation**|Ali Abbasi et.al.|[2311.12999](http://arxiv.org/abs/2311.12999)|null|
 |**2023-10-16**|**Enhancing Interpretability using Human Similarity Judgements to Prune Word Embeddings**|Natalia Flechas Manrique et.al.|[2310.10262](http://arxiv.org/abs/2310.10262)|null|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
