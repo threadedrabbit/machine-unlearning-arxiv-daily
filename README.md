@@ -1,4 +1,4 @@
-## Updated on 2025.07.18
+## Updated on 2025.07.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -229,7 +229,7 @@
 |**2025-05-26**|**Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?**|Zexi Li et.al.|[2505.19855](http://arxiv.org/abs/2505.19855)|null|
 |**2025-05-26**|**Light distillation for Incremental Graph Convolution Collaborative Filtering**|X Fan et.al.|[2505.19810](http://arxiv.org/abs/2505.19810)|null|
 
-<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250719>back to top</a>)</p>
 
 ## Machine Unlearning Benchmarks
 
@@ -300,7 +300,7 @@
 |**2020-09-14**|**CVPR 2020 Continual Learning in Computer Vision Competition: Approaches, Results, Current Challenges and Future Directions**|Vincenzo Lomonaco et.al.|[2009.09929](http://arxiv.org/abs/2009.09929)|null|
 |**2021-03-02**|**Using Hindsight to Anchor Past Knowledge in Continual Learning**|Arslan Chaudhry et.al.|[2002.08165](http://arxiv.org/abs/2002.08165)|null|
 
-<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250719>back to top</a>)</p>
 
 ## Machine Unlearning Datasets
 
@@ -417,5 +417,5 @@
 |**2023-11-21**|**CovarNav: Machine Unlearning via Model Inversion and Covariance Navigation**|Ali Abbasi et.al.|[2311.12999](http://arxiv.org/abs/2311.12999)|null|
 |**2023-10-16**|**Enhancing Interpretability using Human Similarity Judgements to Prune Word Embeddings**|Natalia Flechas Manrique et.al.|[2310.10262](http://arxiv.org/abs/2310.10262)|null|
 
-<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250719>back to top</a>)</p>
 
