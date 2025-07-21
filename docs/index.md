@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Can Synthetic Images Conquer Forgetting? Beyond Unexplored Doubts in Few-Shot Class-Incremental Learning**|Junsu Kim et.al.|[2507.13739](http://arxiv.org/abs/2507.13739)|null|
+|**2025-07-18**|**GIFT: Gradient-aware Immunization of diffusion models against malicious Fine-Tuning with safe concepts retention**|Amro Abdalla et.al.|[2507.13598](http://arxiv.org/abs/2507.13598)|null|
+|**2025-07-16**|**Minimalist Concept Erasure in Generative Models**|Yang Zhang et.al.|[2507.13386](http://arxiv.org/abs/2507.13386)|null|
 |**2025-07-17**|**R^2MoE: Redundancy-Removal Mixture of Experts for Lifelong Concept Learning**|Xiaohan Guo et.al.|[2507.13107](http://arxiv.org/abs/2507.13107)|null|
 |**2025-07-17**|**T3MAL: Test-Time Fast Adaptation for Robust Multi-Scale Information Diffusion Prediction**|Wenting Zhu et.al.|[2507.12880](http://arxiv.org/abs/2507.12880)|null|
 |**2025-07-16**|**Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal Large Language Models**|Gen Luo et.al.|[2507.12566](http://arxiv.org/abs/2507.12566)|null|
