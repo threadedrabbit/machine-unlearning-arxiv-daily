@@ -12,6 +12,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training**|Kailai Yang et.al.|[2507.15640](http://arxiv.org/abs/2507.15640)|null|
+|**2025-07-21**|**Machine Unlearning for Streaming Forgetting**|Shaofei Shen et.al.|[2507.15280](http://arxiv.org/abs/2507.15280)|null|
+|**2025-07-20**|**Distributional Unlearning: Forgetting Distributions, Not Just Samples**|Youssef Allouah et.al.|[2507.15112](http://arxiv.org/abs/2507.15112)|null|
+|**2025-07-19**|**Investigating the Role of LLMs Hyperparameter Tuning and Prompt Engineering to Support Domain Modeling**|Vladyslav Bulhakov et.al.|[2507.14735](http://arxiv.org/abs/2507.14735)|null|
+|**2025-07-19**|**Depthwise-Dilated Convolutional Adapters for Medical Object Tracking and Segmentation Using the Segment Anything Model 2**|Guoping Xu et.al.|[2507.14613](http://arxiv.org/abs/2507.14613)|null|
+|**2025-07-18**|**Incremental Causal Graph Learning for Online Cyberattack Detection in Cyber-Physical Infrastructures**|Arun Vignesh Malarkkan et.al.|[2507.14387](http://arxiv.org/abs/2507.14387)|null|
 |**2025-07-18**|**Can Synthetic Images Conquer Forgetting? Beyond Unexplored Doubts in Few-Shot Class-Incremental Learning**|Junsu Kim et.al.|[2507.13739](http://arxiv.org/abs/2507.13739)|null|
 |**2025-07-18**|**GIFT: Gradient-aware Immunization of diffusion models against malicious Fine-Tuning with safe concepts retention**|Amro Abdalla et.al.|[2507.13598](http://arxiv.org/abs/2507.13598)|null|
 |**2025-07-16**|**Minimalist Concept Erasure in Generative Models**|Yang Zhang et.al.|[2507.13386](http://arxiv.org/abs/2507.13386)|null|
@@ -309,6 +315,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-20**|**Distributional Unlearning: Forgetting Distributions, Not Just Samples**|Youssef Allouah et.al.|[2507.15112](http://arxiv.org/abs/2507.15112)|null|
 |**2025-07-15**|**What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests**|Dimitri Staufer et.al.|[2507.11128](http://arxiv.org/abs/2507.11128)|null|
 |**2025-07-13**|**Leveraging Distribution Matching to Make Approximate Machine Unlearning Faster**|Junaid Iqbal Khan et.al.|[2507.09786](http://arxiv.org/abs/2507.09786)|null|
 |**2025-07-11**|**Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs**|Yan Scholten et.al.|[2507.04219](http://arxiv.org/abs/2507.04219)|null|
