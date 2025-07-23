@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 ## Machine Unlearning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -32,7 +32,7 @@ layout: default
 |**2025-07-14**|**BURN: Backdoor Unlearning via Adversarial Boundary Analysis**|Yanghao Su et.al.|[2507.10491](http://arxiv.org/abs/2507.10491)|null|
 |**2025-07-14**|**Overcoming catastrophic forgetting in neural networks**|Brandon Shuen Yi Loke et.al.|[2507.10485](http://arxiv.org/abs/2507.10485)|null|
 |**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
-|**2025-07-13**|**Leveraging Distribution Matching to Make Approximate Machine Unlearning Faster**|Junaid Iqbal Khan et.al.|[2507.09786](http://arxiv.org/abs/2507.09786)|null|
+|**2025-07-22**|**Leveraging Distribution Matching to Make Approximate Machine Unlearning Faster**|Junaid Iqbal Khan et.al.|[2507.09786](http://arxiv.org/abs/2507.09786)|null|
 |**2025-07-12**|**Continual Reinforcement Learning by Planning with Online World Models**|Zichen Liu et.al.|[2507.09177](http://arxiv.org/abs/2507.09177)|null|
 |**2025-07-11**|**Confounder-Free Continual Learning via Recursive Feature Normalization**|Yash Shah et.al.|[2507.09031](http://arxiv.org/abs/2507.09031)|null|
 |**2025-07-11**|**Catastrophic Forgetting Mitigation Through Plateau Phase Activity Profiling**|Idan Mashiach et.al.|[2507.08736](http://arxiv.org/abs/2507.08736)|null|
@@ -42,7 +42,7 @@ layout: default
 |**2025-07-11**|**Cycle Context Verification for In-Context Medical Image Segmentation**|Shishuai Hu et.al.|[2507.08357](http://arxiv.org/abs/2507.08357)|null|
 |**2025-07-11**|**Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency**|Yupu Liang et.al.|[2507.08309](http://arxiv.org/abs/2507.08309)|null|
 |**2025-07-10**|**Rethinking Query-based Transformer for Continual Image Segmentation**|Yuchen Zhu et.al.|[2507.07831](http://arxiv.org/abs/2507.07831)|null|
-|**2025-07-10**|**OPC: One-Point-Contraction Unlearning Toward Deep Feature Forgetting**|Jaeheun Jung et.al.|[2507.07754](http://arxiv.org/abs/2507.07754)|null|
+|**2025-07-22**|**OPC: One-Point-Contraction Unlearning Toward Deep Feature Forgetting**|Jaeheun Jung et.al.|[2507.07754](http://arxiv.org/abs/2507.07754)|null|
 |**2025-07-09**|**Image Can Bring Your Memory Back: A Novel Multi-Modal Guided Attack against Image Generation Model Unlearning**|Renyang Liu et.al.|[2507.07139](http://arxiv.org/abs/2507.07139)|null|
 |**2025-07-09**|**Automating Evaluation of Diffusion Model Unlearning with (Vision-) Language Model World Knowledge**|Eric Yeats et.al.|[2507.07137](http://arxiv.org/abs/2507.07137)|null|
 |**2025-07-08**|**Growing Transformers: Modular Composition and Layer-wise Expansion on a Frozen Substrate**|A. Bochkov et.al.|[2507.07129](http://arxiv.org/abs/2507.07129)|null|
@@ -237,7 +237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-10**|**OPC: One-Point-Contraction Unlearning Toward Deep Feature Forgetting**|Jaeheun Jung et.al.|[2507.07754](http://arxiv.org/abs/2507.07754)|null|
+|**2025-07-22**|**OPC: One-Point-Contraction Unlearning Toward Deep Feature Forgetting**|Jaeheun Jung et.al.|[2507.07754](http://arxiv.org/abs/2507.07754)|null|
 |**2025-07-02**|**PULSE: Practical Evaluation Scenarios for Large Multimodal Model Unlearning**|Tatsuki Kawakami et.al.|[2507.01271](http://arxiv.org/abs/2507.01271)|null|
 |**2025-06-20**|**Large Language Model Unlearning for Source Code**|Xue Jiang et.al.|[2506.17125](http://arxiv.org/abs/2506.17125)|null|
 |**2025-05-28**|**BLUR: A Benchmark for LLM Unlearning Robust to Forget-Retain Overlap**|Shengyuan Hu et.al.|[2506.15699](http://arxiv.org/abs/2506.15699)|null|
@@ -308,7 +308,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-20**|**Distributional Unlearning: Forgetting Distributions, Not Just Samples**|Youssef Allouah et.al.|[2507.15112](http://arxiv.org/abs/2507.15112)|null|
 |**2025-07-15**|**What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests**|Dimitri Staufer et.al.|[2507.11128](http://arxiv.org/abs/2507.11128)|null|
-|**2025-07-13**|**Leveraging Distribution Matching to Make Approximate Machine Unlearning Faster**|Junaid Iqbal Khan et.al.|[2507.09786](http://arxiv.org/abs/2507.09786)|null|
+|**2025-07-22**|**Leveraging Distribution Matching to Make Approximate Machine Unlearning Faster**|Junaid Iqbal Khan et.al.|[2507.09786](http://arxiv.org/abs/2507.09786)|null|
 |**2025-07-11**|**Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs**|Yan Scholten et.al.|[2507.04219](http://arxiv.org/abs/2507.04219)|null|
 |**2025-07-04**|**NOVO: Unlearning-Compliant Vision Transformers**|Soumya Roy et.al.|[2507.03281](http://arxiv.org/abs/2507.03281)|null|
 |**2025-06-29**|**Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings**|Shahad Hardan et.al.|[2506.23145](http://arxiv.org/abs/2506.23145)|null|
@@ -403,7 +403,7 @@ layout: default
 |**2024-12-15**|**StyleBooth: Image Style Editing with Multimodal Instruction**|Zhen Han et.al.|[2404.12154](http://arxiv.org/abs/2404.12154)|**[link](https://github.com/modelscope/scepter)**|
 |**2024-04-15**|**HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing**|Mude Hui et.al.|[2404.09990](http://arxiv.org/abs/2404.09990)|null|
 |**2024-06-05**|**EffiVED:Efficient Video Editing via Text-instruction Diffusion Models**|Zhenghao Zhang et.al.|[2403.11568](http://arxiv.org/abs/2403.11568)|**[link](https://github.com/alibaba/effived)**|
-|**2024-05-27**|**Make Me Happier: Evoking Emotions Through Image Diffusion Models**|Qing Lin et.al.|[2403.08255](http://arxiv.org/abs/2403.08255)|null|
+|**2025-07-22**|**Make Me Happier: Evoking Emotions Through Image Diffusion Models**|Qing Lin et.al.|[2403.08255](http://arxiv.org/abs/2403.08255)|null|
 |**2024-07-09**|**Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning**|Chongyu Fan et.al.|[2403.07362](http://arxiv.org/abs/2403.07362)|**[link](https://github.com/optml-group/unlearn-worstcase)**|
 |**2024-04-17**|**mEdIT: Multilingual Text Editing via Instruction Tuning**|Vipul Raheja et.al.|[2402.16472](http://arxiv.org/abs/2402.16472)|**[link](https://github.com/vipulraheja/medit)**|
 |**2024-02-13**|**Discriminative Adversarial Unlearning**|Rohan Sharma et.al.|[2402.06864](http://arxiv.org/abs/2402.06864)|null|
