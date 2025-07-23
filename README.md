@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning**|Boheng Li et.al.|[2507.16302](http://arxiv.org/abs/2507.16302)|null|
+|**2025-07-22**|**iShumei-Chinchunmei at SemEval-2025 Task 4: A balanced forgetting and retention multi-task framework using effective unlearning loss**|Yujian Sun et.al.|[2507.16263](http://arxiv.org/abs/2507.16263)|null|
+|**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116](http://arxiv.org/abs/2507.16116)|null|
 |**2025-07-21**|**Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training**|Kailai Yang et.al.|[2507.15640](http://arxiv.org/abs/2507.15640)|null|
 |**2025-07-21**|**Machine Unlearning for Streaming Forgetting**|Shaofei Shen et.al.|[2507.15280](http://arxiv.org/abs/2507.15280)|null|
 |**2025-07-20**|**Distributional Unlearning: Forgetting Distributions, Not Just Samples**|Youssef Allouah et.al.|[2507.15112](http://arxiv.org/abs/2507.15112)|null|
@@ -315,6 +318,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**iShumei-Chinchunmei at SemEval-2025 Task 4: A balanced forgetting and retention multi-task framework using effective unlearning loss**|Yujian Sun et.al.|[2507.16263](http://arxiv.org/abs/2507.16263)|null|
 |**2025-07-20**|**Distributional Unlearning: Forgetting Distributions, Not Just Samples**|Youssef Allouah et.al.|[2507.15112](http://arxiv.org/abs/2507.15112)|null|
 |**2025-07-15**|**What Should LLMs Forget? Quantifying Personal Data in LLMs for Right-to-Be-Forgotten Requests**|Dimitri Staufer et.al.|[2507.11128](http://arxiv.org/abs/2507.11128)|null|
 |**2025-07-22**|**Leveraging Distribution Matching to Make Approximate Machine Unlearning Faster**|Junaid Iqbal Khan et.al.|[2507.09786](http://arxiv.org/abs/2507.09786)|null|
