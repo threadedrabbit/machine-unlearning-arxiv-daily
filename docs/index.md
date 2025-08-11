@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.10
+## Updated on 2025.08.11
 ## Machine Unlearning
 
 | Publish Date | Title | Authors | PDF | Code |
